@@ -1,89 +1,91 @@
 outgoing,incoming,stops,duration,price,airline,departure_date,return_date
-ZRH,YUL,1,"['12', '40']",530,"SWISS, Air CanadaOperated by Helvetic",2024-07-01,2024-07-08
-ZRH,YUL,1,['11'],628,KLMDelta,2024-07-01,2024-07-08
-ZRH,YUL,0,"['8', '20']",663,SWISSAir Canada,2024-07-01,2024-07-08
+ZRH,YUL,1,"['15', '30']",505,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-01,2024-07-08
+ZRH,YUL,1,"['12', '40']",509,"SWISS, Air CanadaOperated by Helvetic",2024-07-01,2024-07-08
+ZRH,YUL,0,"['8', '20']",655,SWISSAir Canada,2024-07-01,2024-07-08
 ZRH,YUL,1,"['15', '20']",582,DeltaOperated by Endeavor Air DBA Delta Connection,2024-07-01,2024-07-08
-ZRH,YUL,1,"['10', '55']",741,"AustrianAir Canada, SWISS",2024-07-01,2024-07-08
-ZRH,YUL,1,"['10', '50']",744,"SWISS, Air CanadaLufthansa",2024-07-01,2024-07-08
+ZRH,YUL,1,['11'],633,KLMDelta,2024-07-01,2024-07-08
+ZRH,YUL,1,"['10', '30']",658,"SWISS, Air Canada",2024-07-01,2024-07-08
+ZRH,YUL,1,"['12', '40']",748,"SWISS, Air CanadaUnited",2024-07-01,2024-07-08
 ZRH,YUL,1,"['9', '55']",753,Air France,2024-07-01,2024-07-08
-ZRH,YUL,1,"['10', '30']",754,"SWISS, Air Canada",2024-07-01,2024-07-08
 ZRH,YUL,1,"['15', '20']",582,DeltaOperated by Endeavor Air DBA Delta Connection,2024-07-02,2024-07-09
-ZRH,YUL,1,"['10', '55']",741,"AustrianAir Canada, SWISS",2024-07-02,2024-07-09
-ZRH,YUL,1,"['10', '50']",744,"SWISS, Air CanadaLufthansa",2024-07-02,2024-07-09
+ZRH,YUL,1,['11'],633,KLMDelta,2024-07-02,2024-07-09
+ZRH,YUL,1,"['10', '30']",658,"SWISS, Air Canada",2024-07-02,2024-07-09
+ZRH,YUL,1,"['12', '40']",748,"SWISS, Air CanadaUnited",2024-07-02,2024-07-09
 ZRH,YUL,1,"['9', '55']",753,Air France,2024-07-02,2024-07-09
-ZRH,YUL,1,"['10', '30']",754,"SWISS, Air Canada",2024-07-02,2024-07-09
-ZRH,YUL,1,"['15', '30']",488,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-02,2024-07-09
+ZRH,YUL,1,"['13', '20']",485,"SWISS, Air Canada",2024-07-02,2024-07-09
 ZRH,YUL,1,"['12', '40']",493,"SWISS, Air CanadaOperated by Air Baltic Corporation/Swiss",2024-07-02,2024-07-09
+ZRH,YUL,1,"['15', '5']",505,"SWISS, LufthansaAir Canada",2024-07-02,2024-07-09
 ZRH,YUL,1,['13'],519,"SWISS, Air CanadaLufthansaOperated by Air Baltic for Swiss International Air Lines",2024-07-02,2024-07-09
 ZRH,YUL,1,"['10', '20']",540,Air FranceDelta,2024-07-02,2024-07-09
-ZRH,YUL,1,['11'],601,"AustrianSWISS, Air Canada",2024-07-02,2024-07-09
-ZRH,YUL,1,"['15', '30']",488,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-03,2024-07-10
+ZRH,YUL,1,['11'],561,"AustrianAir Canada, SWISS",2024-07-02,2024-07-09
+ZRH,YUL,1,"['13', '20']",485,"SWISS, Air Canada",2024-07-03,2024-07-10
 ZRH,YUL,1,"['12', '40']",493,"SWISS, Air CanadaOperated by Air Baltic Corporation/Swiss",2024-07-03,2024-07-10
+ZRH,YUL,1,"['15', '5']",505,"SWISS, LufthansaAir Canada",2024-07-03,2024-07-10
 ZRH,YUL,1,['13'],519,"SWISS, Air CanadaLufthansaOperated by Air Baltic for Swiss International Air Lines",2024-07-03,2024-07-10
 ZRH,YUL,1,"['10', '20']",540,Air FranceDelta,2024-07-03,2024-07-10
-ZRH,YUL,1,['11'],601,"AustrianSWISS, Air Canada",2024-07-03,2024-07-10
+ZRH,YUL,1,['11'],561,"AustrianAir Canada, SWISS",2024-07-03,2024-07-10
 ZRH,YUL,1,"['13', '20']",485,"SWISS, Air Canada",2024-07-03,2024-07-10
 ZRH,YUL,1,"['14', '20']",485,"SWISS, Air Canada",2024-07-03,2024-07-10
 ZRH,YUL,1,"['12', '40']",486,"SWISS, AustrianAir Canada",2024-07-03,2024-07-10
-ZRH,YUL,1,"['14', '5']",522,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-07-03,2024-07-10
+ZRH,YUL,1,"['14', '5']",488,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-07-03,2024-07-10
 ZRH,YUL,1,['11'],535,KLMDelta,2024-07-03,2024-07-10
 ZRH,YUL,1,"['11', '35']",574,"SWISS, Air Canada",2024-07-03,2024-07-10
 ZRH,YUL,1,"['13', '20']",485,"SWISS, Air Canada",2024-07-04,2024-07-11
 ZRH,YUL,1,"['14', '20']",485,"SWISS, Air Canada",2024-07-04,2024-07-11
 ZRH,YUL,1,"['12', '40']",486,"SWISS, AustrianAir Canada",2024-07-04,2024-07-11
-ZRH,YUL,1,"['14', '5']",522,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-07-04,2024-07-11
+ZRH,YUL,1,"['14', '5']",488,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-07-04,2024-07-11
 ZRH,YUL,1,['11'],535,KLMDelta,2024-07-04,2024-07-11
 ZRH,YUL,1,"['11', '35']",574,"SWISS, Air Canada",2024-07-04,2024-07-11
 ZRH,YUL,1,"['11', '40']",490,"SWISS, Air CanadaOperated by Edelweiss Air",2024-07-04,2024-07-11
 ZRH,YUL,1,['13'],516,"SWISS, Air CanadaLufthansa",2024-07-04,2024-07-11
+ZRH,YUL,1,['18'],522,LufthansaOperated by Lufthansa CityLine,2024-07-04,2024-07-11
 ZRH,YUL,1,"['10', '20']",540,Air FranceDelta,2024-07-04,2024-07-11
 ZRH,YUL,1,"['10', '45']",560,"LufthansaAir Canada, SWISS",2024-07-04,2024-07-11
-ZRH,YUL,1,"['10', '15']",563,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-04,2024-07-11
 ZRH,YUL,1,"['11', '40']",490,"SWISS, Air CanadaOperated by Edelweiss Air",2024-07-05,2024-07-12
 ZRH,YUL,1,['13'],516,"SWISS, Air CanadaLufthansa",2024-07-05,2024-07-12
+ZRH,YUL,1,['18'],522,LufthansaOperated by Lufthansa CityLine,2024-07-05,2024-07-12
 ZRH,YUL,1,"['10', '20']",540,Air FranceDelta,2024-07-05,2024-07-12
 ZRH,YUL,1,"['10', '45']",560,"LufthansaAir Canada, SWISS",2024-07-05,2024-07-12
-ZRH,YUL,1,"['10', '15']",563,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-05,2024-07-12
 ZRH,YUL,3,"['13', '50']",623,13 hr 50 min,2024-07-05,2024-07-12
 ZRH,YUL,1,"['13', '15']",633,Air FranceDelta,2024-07-05,2024-07-12
 ZRH,YUL,1,"['10', '20']",689,Air France,2024-07-05,2024-07-12
-ZRH,YUL,1,"['13', '50']",710,"LufthansaAir Canada, SWISS",2024-07-05,2024-07-12
 ZRH,YUL,1,"['11', '25']",739,"SWISS, Air Canada",2024-07-05,2024-07-12
 ZRH,YUL,1,"['10', '30']",807,"SWISS, Air Canada",2024-07-05,2024-07-12
 ZRH,YUL,3,"['13', '50']",623,13 hr 50 min,2024-07-06,2024-07-13
 ZRH,YUL,1,"['13', '15']",633,Air FranceDelta,2024-07-06,2024-07-13
 ZRH,YUL,1,"['10', '20']",689,Air France,2024-07-06,2024-07-13
-ZRH,YUL,1,"['13', '50']",710,"LufthansaAir Canada, SWISS",2024-07-06,2024-07-13
 ZRH,YUL,1,"['11', '25']",739,"SWISS, Air Canada",2024-07-06,2024-07-13
 ZRH,YUL,1,"['10', '30']",807,"SWISS, Air Canada",2024-07-06,2024-07-13
-ZRH,YUL,1,"['15', '50']",628,KLMDelta,2024-07-06,2024-07-13
+ZRH,YUL,1,"['15', '50']",649,KLMDelta,2024-07-06,2024-07-13
 ZRH,YUL,1,"['13', '30']",684,KLMDeltaOperated by KLM Cityhopper,2024-07-06,2024-07-13
 ZRH,YUL,1,"['13', '15']",753,Air France,2024-07-06,2024-07-13
 ZRH,YUL,1,['13'],814,"SWISS, Air Canada",2024-07-06,2024-07-13
 ZRH,YUL,1,"['10', '20']",823,Air France,2024-07-06,2024-07-13
-ZRH,YUL,1,"['15', '50']",628,KLMDelta,2024-07-07,2024-07-14
+ZRH,YUL,1,"['15', '50']",649,KLMDelta,2024-07-07,2024-07-14
 ZRH,YUL,1,"['13', '30']",684,KLMDeltaOperated by KLM Cityhopper,2024-07-07,2024-07-14
 ZRH,YUL,1,"['13', '15']",753,Air France,2024-07-07,2024-07-14
 ZRH,YUL,1,['13'],814,"SWISS, Air Canada",2024-07-07,2024-07-14
 ZRH,YUL,1,"['10', '20']",823,Air France,2024-07-07,2024-07-14
-ZRH,YUL,1,"['29', '25']",666,"SWISS, LufthansaAir Canada",2024-07-07,2024-07-14
-ZRH,YUL,1,"['28', '35']",666,"LufthansaSWISS, Air CanadaOperated by Lufthansa CityLine",2024-07-07,2024-07-14
-ZRH,YUL,1,"['15', '25']",753,Air FranceDelta,2024-07-07,2024-07-14
-ZRH,YUL,1,"['12', '25']",786,"SWISS, AustrianAir CanadaOperated by Edelweiss Air",2024-07-07,2024-07-14
+ZRH,YUL,1,"['29', '25']",591,"SWISS, LufthansaAir Canada",2024-07-07,2024-07-14
+ZRH,YUL,1,"['28', '35']",591,"LufthansaSWISS, Air CanadaOperated by Lufthansa CityLine",2024-07-07,2024-07-14
+ZRH,YUL,1,"['21', '55']",669,"SWISS, Air CanadaOperated by Helvetic",2024-07-07,2024-07-14
 ZRH,YUL,1,"['13', '15']",823,Air FranceDelta,2024-07-07,2024-07-14
-ZRH,YUL,1,"['11', '25']",934,"SWISS, Air Canada",2024-07-07,2024-07-14
-ZRH,YUL,1,"['29', '25']",666,"SWISS, LufthansaAir Canada",2024-07-08,2024-07-15
-ZRH,YUL,1,"['28', '35']",666,"LufthansaSWISS, Air CanadaOperated by Lufthansa CityLine",2024-07-08,2024-07-15
-ZRH,YUL,1,"['15', '25']",753,Air FranceDelta,2024-07-08,2024-07-15
-ZRH,YUL,1,"['12', '25']",786,"SWISS, AustrianAir CanadaOperated by Edelweiss Air",2024-07-08,2024-07-15
+ZRH,YUL,1,"['10', '20']",932,Air FranceDelta,2024-07-07,2024-07-14
+ZRH,YUL,1,"['29', '25']",591,"SWISS, LufthansaAir Canada",2024-07-08,2024-07-15
+ZRH,YUL,1,"['28', '35']",591,"LufthansaSWISS, Air CanadaOperated by Lufthansa CityLine",2024-07-08,2024-07-15
+ZRH,YUL,1,"['21', '55']",669,"SWISS, Air CanadaOperated by Helvetic",2024-07-08,2024-07-15
 ZRH,YUL,1,"['13', '15']",823,Air FranceDelta,2024-07-08,2024-07-15
-ZRH,YUL,1,"['11', '25']",934,"SWISS, Air Canada",2024-07-08,2024-07-15
-ZRH,YUL,1,"['18', '55']",633,Air France,2024-07-08,2024-07-15
+ZRH,YUL,1,"['10', '20']",932,Air FranceDelta,2024-07-08,2024-07-15
+ZRH,YUL,1,"['32', '35']",666,"SWISS, LufthansaAir Canada",2024-07-08,2024-07-15
+ZRH,YUL,1,"['31', '45']",666,"LufthansaSWISS, Air CanadaOperated by Lufthansa CityLine",2024-07-08,2024-07-15
 ZRH,YUL,1,"['14', '20']",710,"SWISS, Air Canada",2024-07-08,2024-07-15
+ZRH,YUL,1,"['12', '35']",730,"LufthansaSWISS, Air Canada",2024-07-08,2024-07-15
 ZRH,YUL,1,"['12', '40']",803,"SWISS, Air CanadaOperated by Helvetic Airways/Swiss",2024-07-08,2024-07-15
 ZRH,YUL,1,"['10', '30']",892,"SWISS, Air Canada",2024-07-08,2024-07-15
-ZRH,YUL,1,"['18', '55']",633,Air France,2024-07-09,2024-07-16
+ZRH,YUL,1,"['32', '35']",666,"SWISS, LufthansaAir Canada",2024-07-09,2024-07-16
+ZRH,YUL,1,"['31', '45']",666,"LufthansaSWISS, Air CanadaOperated by Lufthansa CityLine",2024-07-09,2024-07-16
 ZRH,YUL,1,"['14', '20']",710,"SWISS, Air Canada",2024-07-09,2024-07-16
+ZRH,YUL,1,"['12', '35']",730,"LufthansaSWISS, Air Canada",2024-07-09,2024-07-16
 ZRH,YUL,1,"['12', '40']",803,"SWISS, Air CanadaOperated by Helvetic Airways/Swiss",2024-07-09,2024-07-16
 ZRH,YUL,1,"['10', '30']",892,"SWISS, Air Canada",2024-07-09,2024-07-16
 ZRH,YUL,1,"['24', '35']",510,"SWISS, Air Canada",2024-07-09,2024-07-16
@@ -111,46 +113,50 @@ ZRH,YUL,1,"['18', '55']",689,Air France,2024-07-11,2024-07-18
 ZRH,YUL,1,"['10', '50']",730,"SWISS, Air CanadaLufthansa",2024-07-11,2024-07-18
 ZRH,YUL,1,"['10', '20']",753,Air FranceDelta,2024-07-11,2024-07-18
 ZRH,YUL,1,"['24', '35']",585,"SWISS, Air Canada",2024-07-11,2024-07-18
-ZRH,YUL,1,"['12', '40']",711,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-07-11,2024-07-18
+ZRH,YUL,1,"['15', '30']",638,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-11,2024-07-18
+ZRH,YUL,1,"['11', '35']",713,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-11,2024-07-18
+ZRH,YUL,1,"['11', '25']",739,"SWISS, Air Canada",2024-07-11,2024-07-18
 ZRH,YUL,1,['11'],748,KLMDelta,2024-07-11,2024-07-18
-ZRH,YUL,1,"['11', '10']",785,"Lufthansa, Air Canada",2024-07-11,2024-07-18
-ZRH,YUL,1,"['11', '35']",788,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-11,2024-07-18
 ZRH,YUL,1,"['10', '30']",807,"SWISS, Air Canada",2024-07-11,2024-07-18
 ZRH,YUL,1,"['24', '35']",585,"SWISS, Air Canada",2024-07-12,2024-07-19
-ZRH,YUL,1,"['12', '40']",711,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-07-12,2024-07-19
+ZRH,YUL,1,"['15', '30']",638,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-12,2024-07-19
+ZRH,YUL,1,"['11', '35']",713,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-12,2024-07-19
+ZRH,YUL,1,"['11', '25']",739,"SWISS, Air Canada",2024-07-12,2024-07-19
 ZRH,YUL,1,['11'],748,KLMDelta,2024-07-12,2024-07-19
-ZRH,YUL,1,"['11', '10']",785,"Lufthansa, Air Canada",2024-07-12,2024-07-19
-ZRH,YUL,1,"['11', '35']",788,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-12,2024-07-19
 ZRH,YUL,1,"['10', '30']",807,"SWISS, Air Canada",2024-07-12,2024-07-19
+ZRH,YUL,1,"['17', '35']",673,"SWISS, LufthansaAir CanadaOperated by Helvetic",2024-07-12,2024-07-19
 ZRH,YUL,1,"['21', '30']",679,"SWISS, Air Canada",2024-07-12,2024-07-19
-ZRH,YUL,1,"['12', '40']",923,"SWISS, Air CanadaUnitedOperated by Air Baltic",2024-07-12,2024-07-19
-ZRH,YUL,1,"['11', '25']",954,"SWISS, Air Canada",2024-07-12,2024-07-19
-ZRH,YUL,1,"['10', '20']",1,Air FranceDelta,2024-07-12,2024-07-19
+ZRH,YUL,1,"['13', '20']",835,"SWISS, Air Canada",2024-07-12,2024-07-19
+ZRH,YUL,1,"['11', '25']",949,"SWISS, Air Canada",2024-07-12,2024-07-19
+ZRH,YUL,1,"['10', '20']",1025,Air FranceDelta,2024-07-12,2024-07-19
+ZRH,YUL,1,"['17', '35']",673,"SWISS, LufthansaAir CanadaOperated by Helvetic",2024-07-13,2024-07-20
 ZRH,YUL,1,"['21', '30']",679,"SWISS, Air Canada",2024-07-13,2024-07-20
-ZRH,YUL,1,"['12', '40']",923,"SWISS, Air CanadaUnitedOperated by Air Baltic",2024-07-13,2024-07-20
-ZRH,YUL,1,"['11', '25']",954,"SWISS, Air Canada",2024-07-13,2024-07-20
-ZRH,YUL,1,"['10', '20']",1,Air FranceDelta,2024-07-13,2024-07-20
+ZRH,YUL,1,"['13', '20']",835,"SWISS, Air Canada",2024-07-13,2024-07-20
+ZRH,YUL,1,"['11', '25']",949,"SWISS, Air Canada",2024-07-13,2024-07-20
+ZRH,YUL,1,"['10', '20']",1025,Air FranceDelta,2024-07-13,2024-07-20
+ZRH,YUL,1,"['19', '5']",667,"SWISS, Air CanadaOperated by Air Baltic",2024-07-13,2024-07-20
+ZRH,YUL,2,"['15', '43']",690,"SWISS, Air CanadaOperated by Helvetic",2024-07-13,2024-07-20
 ZRH,YUL,1,"['12', '40']",886,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-07-13,2024-07-20
-ZRH,YUL,1,"['11', '40']",890,"SWISS, Air CanadaOperated by Edelweiss Air",2024-07-13,2024-07-20
-ZRH,YUL,1,"['10', '20']",1,Air France,2024-07-13,2024-07-20
-ZRH,YUL,1,"['11', '53']",1,Air CanadaSWISS,2024-07-13,2024-07-20
+ZRH,YUL,1,['11'],886,"AustrianAir Canada, SWISS",2024-07-13,2024-07-20
+ZRH,YUL,1,"['11', '35']",988,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-13,2024-07-20
+ZRH,YUL,1,"['19', '5']",667,"SWISS, Air CanadaOperated by Air Baltic",2024-07-14,2024-07-21
+ZRH,YUL,2,"['15', '43']",690,"SWISS, Air CanadaOperated by Helvetic",2024-07-14,2024-07-21
 ZRH,YUL,1,"['12', '40']",886,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-07-14,2024-07-21
-ZRH,YUL,1,"['11', '40']",890,"SWISS, Air CanadaOperated by Edelweiss Air",2024-07-14,2024-07-21
-ZRH,YUL,1,"['10', '20']",1,Air France,2024-07-14,2024-07-21
-ZRH,YUL,1,"['11', '53']",1,Air CanadaSWISS,2024-07-14,2024-07-21
-ZRH,YUL,1,"['19', '5']",592,"SWISS, Air CanadaOperated by Air Baltic",2024-07-14,2024-07-21
-ZRH,YUL,1,"['12', '25']",711,"SWISS, AustrianAir CanadaOperated by Edelweiss Air",2024-07-14,2024-07-21
+ZRH,YUL,1,['11'],886,"AustrianAir Canada, SWISS",2024-07-14,2024-07-21
+ZRH,YUL,1,"['11', '35']",988,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-07-14,2024-07-21
+ZRH,YUL,1,"['12', '25']",721,"SWISS, AustrianAir CanadaOperated by Edelweiss Air",2024-07-14,2024-07-21
 ZRH,YUL,1,"['12', '40']",738,"SWISS, Air CanadaOperated by Air Baltic",2024-07-14,2024-07-21
+ZRH,YUL,1,"['11', '10']",861,"SWISS, Air CanadaOperated by Helvetic",2024-07-14,2024-07-21
+ZRH,YUL,1,['11'],882,"AustrianSWISS, Air Canada",2024-07-14,2024-07-21
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-07-14,2024-07-21
-ZRH,YUL,1,"['19', '5']",592,"SWISS, Air CanadaOperated by Air Baltic",2024-07-15,2024-07-22
-ZRH,YUL,1,"['12', '25']",711,"SWISS, AustrianAir CanadaOperated by Edelweiss Air",2024-07-15,2024-07-22
+ZRH,YUL,1,"['12', '25']",721,"SWISS, AustrianAir CanadaOperated by Edelweiss Air",2024-07-15,2024-07-22
 ZRH,YUL,1,"['12', '40']",738,"SWISS, Air CanadaOperated by Air Baltic",2024-07-15,2024-07-22
+ZRH,YUL,1,"['11', '10']",861,"SWISS, Air CanadaOperated by Helvetic",2024-07-15,2024-07-22
+ZRH,YUL,1,['11'],882,"AustrianSWISS, Air Canada",2024-07-15,2024-07-22
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-07-15,2024-07-22
-ZRH,YUL,1,"['24', '35']",585,"SWISS, Air Canada",2024-07-15,2024-07-22
 ZRH,YUL,1,"['15', '25']",689,Air FranceDelta,2024-07-15,2024-07-22
 ZRH,YUL,1,"['13', '15']",753,Air FranceDelta,2024-07-15,2024-07-22
 ZRH,YUL,1,"['13', '15']",753,Air FranceDelta,2024-07-15,2024-07-22
-ZRH,YUL,1,"['24', '35']",585,"SWISS, Air Canada",2024-07-16,2024-07-23
 ZRH,YUL,1,"['15', '25']",689,Air FranceDelta,2024-07-16,2024-07-23
 ZRH,YUL,1,"['13', '15']",753,Air FranceDelta,2024-07-16,2024-07-23
 ZRH,YUL,1,"['13', '15']",753,Air FranceDelta,2024-07-16,2024-07-23
@@ -218,7 +224,7 @@ ZRH,YUL,1,"['13', '23']",719,"SWISS, Air Canada",2024-07-22,2024-07-29
 ZRH,YUL,1,"['13', '55']",734,Tap Air Portugal,2024-07-22,2024-07-29
 ZRH,YUL,1,"['11', '25']",739,"SWISS, Air Canada",2024-07-22,2024-07-29
 ZRH,YUL,1,"['10', '20']",753,Air FranceDelta,2024-07-22,2024-07-29
-ZRH,YUL,1,"['24', '35']",585,"SWISS, Air Canada",2024-07-22,2024-07-29
+ZRH,YUL,1,"['27', '5']",594,"SWISS, Air Canada",2024-07-22,2024-07-29
 ZRH,YUL,1,"['20', '50']",669,Tap Air Portugal,2024-07-22,2024-07-29
 ZRH,YUL,1,"['21', '55']",669,"SWISS, Air CanadaOperated by Helvetic",2024-07-22,2024-07-29
 ZRH,YUL,1,"['15', '8']",674,"SWISS, Air CanadaUnitedOperated by Air Canada Express - Jazz",2024-07-22,2024-07-29
@@ -226,7 +232,7 @@ ZRH,YUL,1,"['15', '50']",684,KLMDelta,2024-07-22,2024-07-29
 ZRH,YUL,1,"['13', '15']",753,Air FranceDelta,2024-07-22,2024-07-29
 ZRH,YUL,1,"['13', '55']",754,Tap Air Portugal,2024-07-22,2024-07-29
 ZRH,YUL,1,"['10', '50']",804,"SWISS, Air CanadaLufthansa",2024-07-22,2024-07-29
-ZRH,YUL,1,"['24', '35']",585,"SWISS, Air Canada",2024-07-23,2024-07-30
+ZRH,YUL,1,"['27', '5']",594,"SWISS, Air Canada",2024-07-23,2024-07-30
 ZRH,YUL,1,"['20', '50']",669,Tap Air Portugal,2024-07-23,2024-07-30
 ZRH,YUL,1,"['21', '55']",669,"SWISS, Air CanadaOperated by Helvetic",2024-07-23,2024-07-30
 ZRH,YUL,1,"['15', '8']",674,"SWISS, Air CanadaUnitedOperated by Air Canada Express - Jazz",2024-07-23,2024-07-30
@@ -236,9 +242,11 @@ ZRH,YUL,1,"['13', '55']",754,Tap Air Portugal,2024-07-23,2024-07-30
 ZRH,YUL,1,"['10', '50']",804,"SWISS, Air CanadaLufthansa",2024-07-23,2024-07-30
 ZRH,YUL,1,"['21', '55']",519,"SWISS, Air CanadaOperated by Helvetic",2024-07-23,2024-07-30
 ZRH,YUL,1,"['19', '45']",524,"SWISS, Air CanadaUnitedOperated by Air Canada Express - Jazz",2024-07-23,2024-07-30
+ZRH,YUL,2,"['14', '43']",561,"SWISS, Air Canada",2024-07-23,2024-07-30
 ZRH,YUL,1,"['14', '45']",602,"SWISS, Air Canada",2024-07-23,2024-07-30
 ZRH,YUL,1,"['21', '55']",519,"SWISS, Air CanadaOperated by Helvetic",2024-07-24,2024-07-31
 ZRH,YUL,1,"['19', '45']",524,"SWISS, Air CanadaUnitedOperated by Air Canada Express - Jazz",2024-07-24,2024-07-31
+ZRH,YUL,2,"['14', '43']",561,"SWISS, Air Canada",2024-07-24,2024-07-31
 ZRH,YUL,1,"['14', '45']",602,"SWISS, Air Canada",2024-07-24,2024-07-31
 ZRH,YUL,1,"['21', '30']",529,"SWISS, Air Canada",2024-07-24,2024-07-31
 ZRH,YUL,1,"['14', '20']",600,"SWISS, Air Canada",2024-07-24,2024-07-31
@@ -250,75 +258,81 @@ ZRH,YUL,1,"['14', '20']",600,"SWISS, Air Canada",2024-07-25,2024-08-01
 ZRH,YUL,1,"['12', '40']",666,"SWISS, AustrianAir Canada",2024-07-25,2024-08-01
 ZRH,YUL,1,"['13', '55']",669,Tap Air Portugal,2024-07-25,2024-08-01
 ZRH,YUL,1,"['11', '25']",704,"SWISS, Air Canada",2024-07-25,2024-08-01
-ZRH,YUL,1,"['19', '5']",627,"SWISS, Air CanadaOperated by Air Baltic",2024-07-25,2024-08-01
+ZRH,YUL,1,"['19', '5']",576,"SWISS, Air CanadaOperated by Air Baltic",2024-07-25,2024-08-01
+ZRH,YUL,1,"['12', '40']",695,"SWISS, AustrianOperated by Air Baltic",2024-07-25,2024-08-01
 ZRH,YUL,1,['11'],748,KLMDelta,2024-07-25,2024-08-01
-ZRH,YUL,1,"['11', '40']",749,"SWISS, Air CanadaOperated by Edelweiss Air",2024-07-25,2024-08-01
-ZRH,YUL,1,['12'],777,"SWISS, Air CanadaOperated by Air Baltic",2024-07-25,2024-08-01
-ZRH,YUL,1,"['10', '50']",820,"SWISS, Air CanadaLufthansa",2024-07-25,2024-08-01
-ZRH,YUL,1,['11'],821,"AustrianAir Canada, SWISS",2024-07-25,2024-08-01
-ZRH,YUL,1,"['19', '5']",627,"SWISS, Air CanadaOperated by Air Baltic",2024-07-26,2024-08-02
+ZRH,YUL,1,"['10', '50']",769,"SWISS, Air CanadaLufthansa",2024-07-25,2024-08-01
+ZRH,YUL,1,"['10', '5']",796,"SWISS, Air Canada",2024-07-25,2024-08-01
+ZRH,YUL,1,"['19', '5']",576,"SWISS, Air CanadaOperated by Air Baltic",2024-07-26,2024-08-02
+ZRH,YUL,1,"['12', '40']",695,"SWISS, AustrianOperated by Air Baltic",2024-07-26,2024-08-02
 ZRH,YUL,1,['11'],748,KLMDelta,2024-07-26,2024-08-02
-ZRH,YUL,1,"['11', '40']",749,"SWISS, Air CanadaOperated by Edelweiss Air",2024-07-26,2024-08-02
-ZRH,YUL,1,['12'],777,"SWISS, Air CanadaOperated by Air Baltic",2024-07-26,2024-08-02
-ZRH,YUL,1,"['10', '50']",820,"SWISS, Air CanadaLufthansa",2024-07-26,2024-08-02
-ZRH,YUL,1,['11'],821,"AustrianAir Canada, SWISS",2024-07-26,2024-08-02
-ZRH,YUL,1,"['24', '2']",566,"SWISS, Air CanadaUnited",2024-07-26,2024-08-02
-ZRH,YUL,1,"['13', '10']",694,Air FranceDelta,2024-07-26,2024-08-02
-ZRH,YUL,1,"['10', '30']",703,"SWISS, Air Canada",2024-07-26,2024-08-02
-ZRH,YUL,1,"['12', '40']",704,"SWISS, Air Canada",2024-07-26,2024-08-02
-ZRH,YUL,1,"['11', '25']",779,"SWISS, Air Canada",2024-07-26,2024-08-02
-ZRH,YUL,1,"['24', '2']",566,"SWISS, Air CanadaUnited",2024-07-27,2024-08-03
-ZRH,YUL,1,"['13', '10']",694,Air FranceDelta,2024-07-27,2024-08-03
-ZRH,YUL,1,"['10', '30']",703,"SWISS, Air Canada",2024-07-27,2024-08-03
-ZRH,YUL,1,"['12', '40']",704,"SWISS, Air Canada",2024-07-27,2024-08-03
-ZRH,YUL,1,"['11', '25']",779,"SWISS, Air Canada",2024-07-27,2024-08-03
+ZRH,YUL,1,"['10', '50']",769,"SWISS, Air CanadaLufthansa",2024-07-26,2024-08-02
+ZRH,YUL,1,"['10', '5']",796,"SWISS, Air Canada",2024-07-26,2024-08-02
+ZRH,YUL,1,"['24', '2']",559,"SWISS, Air CanadaUnited",2024-07-26,2024-08-02
+ZRH,YUL,1,"['12', '40']",671,"SWISS, AustrianAir Canada",2024-07-26,2024-08-02
+ZRH,YUL,1,['11'],689,KLMDelta,2024-07-26,2024-08-02
+ZRH,YUL,1,"['10', '30']",697,"SWISS, Air Canada",2024-07-26,2024-08-02
+ZRH,YUL,1,"['12', '40']",698,"SWISS, Air Canada",2024-07-26,2024-08-02
+ZRH,YUL,1,"['11', '25']",774,"SWISS, Air Canada",2024-07-26,2024-08-02
+ZRH,YUL,1,"['10', '20']",916,Air France,2024-07-26,2024-08-02
+ZRH,YUL,1,"['24', '2']",559,"SWISS, Air CanadaUnited",2024-07-27,2024-08-03
+ZRH,YUL,1,"['12', '40']",671,"SWISS, AustrianAir Canada",2024-07-27,2024-08-03
+ZRH,YUL,1,['11'],689,KLMDelta,2024-07-27,2024-08-03
+ZRH,YUL,1,"['10', '30']",697,"SWISS, Air Canada",2024-07-27,2024-08-03
+ZRH,YUL,1,"['12', '40']",698,"SWISS, Air Canada",2024-07-27,2024-08-03
+ZRH,YUL,1,"['11', '25']",774,"SWISS, Air Canada",2024-07-27,2024-08-03
+ZRH,YUL,1,"['10', '20']",916,Air France,2024-07-27,2024-08-03
 ZRH,YUL,2,['24'],683,"Lufthansa, Air CanadaOperated by Lufthansa CityLine",2024-07-27,2024-08-03
-ZRH,YUL,1,"['12', '40']",795,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-07-27,2024-08-03
+ZRH,YUL,1,"['12', '40']",812,"SWISS, AustrianOperated by Air Baltic",2024-07-27,2024-08-03
 ZRH,YUL,1,"['15', '20']",823,Air FranceDelta,2024-07-27,2024-08-03
 ZRH,YUL,1,['13'],868,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-07-27,2024-08-03
 ZRH,YUL,1,['11'],927,KLMDelta,2024-07-27,2024-08-03
 ZRH,YUL,1,"['10', '50']",985,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-07-27,2024-08-03
 ZRH,YUL,2,['24'],683,"Lufthansa, Air CanadaOperated by Lufthansa CityLine",2024-07-28,2024-08-04
-ZRH,YUL,1,"['12', '40']",795,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-07-28,2024-08-04
+ZRH,YUL,1,"['12', '40']",812,"SWISS, AustrianOperated by Air Baltic",2024-07-28,2024-08-04
 ZRH,YUL,1,"['15', '20']",823,Air FranceDelta,2024-07-28,2024-08-04
 ZRH,YUL,1,['13'],868,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-07-28,2024-08-04
 ZRH,YUL,1,['11'],927,KLMDelta,2024-07-28,2024-08-04
 ZRH,YUL,1,"['10', '50']",985,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-07-28,2024-08-04
-ZRH,YUL,2,['13'],647,"SWISS, Lufthansa, Air CanadaOperated by Helvetic Airways for Swiss International Air Lines",2024-07-28,2024-08-04
 ZRH,YUL,1,"['14', '35']",650,"SWISS, Air Canada",2024-07-28,2024-08-04
+ZRH,YUL,1,['13'],667,"SWISS, Air CanadaLufthansa",2024-07-28,2024-08-04
 ZRH,YUL,1,"['15', '50']",689,KLMDelta,2024-07-28,2024-08-04
-ZRH,YUL,1,['11'],717,"AustrianAir Canada, SWISS",2024-07-28,2024-08-04
+ZRH,YUL,1,"['15', '17']",731,DeltaOperated by Endeavor Air DBA Delta Connection,2024-07-28,2024-08-04
+ZRH,YUL,1,"['11', '35']",855,"SWISS, Air CanadaOperated by Helvetic",2024-07-28,2024-08-04
 ZRH,YUL,1,"['10', '20']",976,Air France,2024-07-28,2024-08-04
-ZRH,YUL,2,['13'],647,"SWISS, Lufthansa, Air CanadaOperated by Helvetic Airways for Swiss International Air Lines",2024-07-29,2024-08-05
 ZRH,YUL,1,"['14', '35']",650,"SWISS, Air Canada",2024-07-29,2024-08-05
+ZRH,YUL,1,['13'],667,"SWISS, Air CanadaLufthansa",2024-07-29,2024-08-05
 ZRH,YUL,1,"['15', '50']",689,KLMDelta,2024-07-29,2024-08-05
-ZRH,YUL,1,['11'],717,"AustrianAir Canada, SWISS",2024-07-29,2024-08-05
+ZRH,YUL,1,"['15', '17']",731,DeltaOperated by Endeavor Air DBA Delta Connection,2024-07-29,2024-08-05
+ZRH,YUL,1,"['11', '35']",855,"SWISS, Air CanadaOperated by Helvetic",2024-07-29,2024-08-05
 ZRH,YUL,1,"['10', '20']",976,Air France,2024-07-29,2024-08-05
-ZRH,YUL,1,"['14', '20']",690,"SWISS, Air Canada",2024-07-29,2024-08-05
+ZRH,YUL,1,"['14', '20']",656,"SWISS, Air Canada",2024-07-29,2024-08-05
 ZRH,YUL,1,"['10', '55']",723,"AustrianAir Canada, SWISS",2024-07-29,2024-08-05
-ZRH,YUL,1,"['11', '35']",745,"SWISS, Air CanadaOperated by Air Baltic",2024-07-29,2024-08-05
+ZRH,YUL,1,"['11', '35']",743,"SWISS, Air CanadaOperated by Air Baltic",2024-07-29,2024-08-05
 ZRH,YUL,1,"['13', '15']",753,Air FranceDelta,2024-07-29,2024-08-05
 ZRH,YUL,1,"['10', '30']",879,"SWISS, Air Canada",2024-07-29,2024-08-05
-ZRH,YUL,1,"['14', '20']",690,"SWISS, Air Canada",2024-07-30,2024-08-06
+ZRH,YUL,1,"['14', '20']",656,"SWISS, Air Canada",2024-07-30,2024-08-06
 ZRH,YUL,1,"['10', '55']",723,"AustrianAir Canada, SWISS",2024-07-30,2024-08-06
-ZRH,YUL,1,"['11', '35']",745,"SWISS, Air CanadaOperated by Air Baltic",2024-07-30,2024-08-06
+ZRH,YUL,1,"['11', '35']",743,"SWISS, Air CanadaOperated by Air Baltic",2024-07-30,2024-08-06
 ZRH,YUL,1,"['13', '15']",753,Air FranceDelta,2024-07-30,2024-08-06
 ZRH,YUL,1,"['10', '30']",879,"SWISS, Air Canada",2024-07-30,2024-08-06
-ZRH,YUL,2,['13'],658,"SWISS, Lufthansa, Air Canada",2024-07-30,2024-08-06
-ZRH,YUL,1,"['12', '40']",702,"SWISS, Air CanadaOperated by Air Baltic",2024-07-30,2024-08-06
+ZRH,YUL,2,['13'],652,"SWISS, Lufthansa, Air Canada",2024-07-30,2024-08-06
 ZRH,YUL,1,"['12', '40']",749,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-07-30,2024-08-06
-ZRH,YUL,1,"['10', '20']",932,Air France,2024-07-30,2024-08-06
-ZRH,YUL,1,"['10', '5']",1,"SWISS, Air Canada",2024-07-30,2024-08-06
-ZRH,YUL,2,['13'],658,"SWISS, Lufthansa, Air Canada",2024-07-31,2024-08-07
-ZRH,YUL,1,"['12', '40']",702,"SWISS, Air CanadaOperated by Air Baltic",2024-07-31,2024-08-07
+ZRH,YUL,1,['11'],749,"AustrianSWISS, Air Canada",2024-07-30,2024-08-06
+ZRH,YUL,1,"['13', '15']",823,Air France,2024-07-30,2024-08-06
+ZRH,YUL,1,"['10', '5']",953,"SWISS, Air Canada",2024-07-30,2024-08-06
+ZRH,YUL,2,['13'],652,"SWISS, Lufthansa, Air Canada",2024-07-31,2024-08-07
 ZRH,YUL,1,"['12', '40']",749,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-07-31,2024-08-07
-ZRH,YUL,1,"['10', '20']",932,Air France,2024-07-31,2024-08-07
-ZRH,YUL,1,"['10', '5']",1,"SWISS, Air Canada",2024-07-31,2024-08-07
+ZRH,YUL,1,['11'],749,"AustrianSWISS, Air Canada",2024-07-31,2024-08-07
+ZRH,YUL,1,"['13', '15']",823,Air France,2024-07-31,2024-08-07
+ZRH,YUL,1,"['10', '5']",953,"SWISS, Air Canada",2024-07-31,2024-08-07
+ZRH,YUL,2,"['15', '5']",701,"Air France, KLM",2024-07-31,2024-08-07
 ZRH,YUL,1,"['14', '8']",769,Air CanadaOperated by Air Canada Express - Jazz,2024-07-31,2024-08-07
 ZRH,YUL,1,"['13', '15']",839,Air France,2024-07-31,2024-08-07
 ZRH,YUL,1,"['10', '50']",840,"SWISS, Air CanadaLufthansa",2024-07-31,2024-08-07
 ZRH,YUL,1,"['13', '20']",906,"SWISS, Air CanadaOperated by Helvetic Airways/Swiss",2024-07-31,2024-08-07
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-07-31,2024-08-07
+ZRH,YUL,2,"['15', '5']",701,"Air France, KLM",2024-08-01,2024-08-08
 ZRH,YUL,1,"['14', '8']",769,Air CanadaOperated by Air Canada Express - Jazz,2024-08-01,2024-08-08
 ZRH,YUL,1,"['13', '15']",839,Air France,2024-08-01,2024-08-08
 ZRH,YUL,1,"['10', '50']",840,"SWISS, Air CanadaLufthansa",2024-08-01,2024-08-08
@@ -327,104 +341,106 @@ ZRH,YUL,1,"['10', '20']",932,Air France,2024-08-01,2024-08-08
 ZRH,YUL,1,"['23', '20']",698,"SWISS, Air Canada",2024-08-01,2024-08-08
 ZRH,YUL,1,['12'],777,"SWISS, Air CanadaOperated by Air Baltic",2024-08-01,2024-08-08
 ZRH,YUL,1,"['21', '10']",799,Tap Air Portugal,2024-08-01,2024-08-08
-ZRH,YUL,1,"['13', '10']",823,Air FranceDelta,2024-08-01,2024-08-08
+ZRH,YUL,1,"['13', '10']",823,Air France,2024-08-01,2024-08-08
+ZRH,YUL,1,"['12', '35']",840,"LufthansaSWISS, Air Canada",2024-08-01,2024-08-08
 ZRH,YUL,1,"['10', '30']",913,"SWISS, Air Canada",2024-08-01,2024-08-08
 ZRH,YUL,1,"['23', '20']",698,"SWISS, Air Canada",2024-08-02,2024-08-09
 ZRH,YUL,1,['12'],777,"SWISS, Air CanadaOperated by Air Baltic",2024-08-02,2024-08-09
 ZRH,YUL,1,"['21', '10']",799,Tap Air Portugal,2024-08-02,2024-08-09
-ZRH,YUL,1,"['13', '10']",823,Air FranceDelta,2024-08-02,2024-08-09
+ZRH,YUL,1,"['13', '10']",823,Air France,2024-08-02,2024-08-09
+ZRH,YUL,1,"['12', '35']",840,"LufthansaSWISS, Air Canada",2024-08-02,2024-08-09
 ZRH,YUL,1,"['10', '30']",913,"SWISS, Air Canada",2024-08-02,2024-08-09
 ZRH,YUL,1,"['25', '8']",694,Air CanadaOperated by Air Canada Express - Jazz,2024-08-02,2024-08-09
 ZRH,YUL,2,['13'],723,"SWISS, Lufthansa, Air CanadaOperated by Helvetic Airways for Swiss International Air Lines",2024-08-02,2024-08-09
+ZRH,YUL,1,"['12', '40']",843,"SWISS, Air CanadaUnitedOperated by Air Baltic",2024-08-02,2024-08-09
+ZRH,YUL,1,"['11', '35']",843,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-08-02,2024-08-09
 ZRH,YUL,1,"['12', '53']",849,Air Canada,2024-08-02,2024-08-09
-ZRH,YUL,1,"['11', '35']",898,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-08-02,2024-08-09
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-08-02,2024-08-09
 ZRH,YUL,1,"['25', '8']",694,Air CanadaOperated by Air Canada Express - Jazz,2024-08-03,2024-08-10
 ZRH,YUL,2,['13'],723,"SWISS, Lufthansa, Air CanadaOperated by Helvetic Airways for Swiss International Air Lines",2024-08-03,2024-08-10
+ZRH,YUL,1,"['12', '40']",843,"SWISS, Air CanadaUnitedOperated by Air Baltic",2024-08-03,2024-08-10
+ZRH,YUL,1,"['11', '35']",843,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-08-03,2024-08-10
 ZRH,YUL,1,"['12', '53']",849,Air Canada,2024-08-03,2024-08-10
-ZRH,YUL,1,"['11', '35']",898,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-08-03,2024-08-10
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-08-03,2024-08-10
 ZRH,YUL,1,"['23', '20']",726,"SWISS, Air Canada",2024-08-03,2024-08-10
-ZRH,YUL,1,"['14', '8']",797,Air CanadaOperated by Air Canada Express - Jazz,2024-08-03,2024-08-10
-ZRH,YUL,1,"['12', '53']",877,Air Canada,2024-08-03,2024-08-10
-ZRH,YUL,1,['12'],881,"SWISS, Air CanadaOperated by Air Baltic",2024-08-03,2024-08-10
 ZRH,YUL,1,"['12', '23']",894,"SWISS, Air Canada",2024-08-03,2024-08-10
+ZRH,YUL,1,"['11', '40']",939,"SWISS, Air CanadaOperated by Edelweiss Air",2024-08-03,2024-08-10
+ZRH,YUL,1,['13'],948,"SWISS, Air Canada",2024-08-03,2024-08-10
+ZRH,YUL,1,['11'],970,"AustrianSWISS, Air Canada",2024-08-03,2024-08-10
 ZRH,YUL,1,"['23', '20']",726,"SWISS, Air Canada",2024-08-04,2024-08-11
-ZRH,YUL,1,"['14', '8']",797,Air CanadaOperated by Air Canada Express - Jazz,2024-08-04,2024-08-11
-ZRH,YUL,1,"['12', '53']",877,Air Canada,2024-08-04,2024-08-11
-ZRH,YUL,1,['12'],881,"SWISS, Air CanadaOperated by Air Baltic",2024-08-04,2024-08-11
 ZRH,YUL,1,"['12', '23']",894,"SWISS, Air Canada",2024-08-04,2024-08-11
-ZRH,YUL,2,['24'],637,"Lufthansa, Air Canada",2024-08-04,2024-08-11
-ZRH,YUL,2,"['26', '5']",748,"Lufthansa, Air CanadaOperated by Air Canada Express - Jazz",2024-08-04,2024-08-11
-ZRH,YUL,1,"['13', '30']",839,KLMDeltaOperated by KLM Cityhopper,2024-08-04,2024-08-11
-ZRH,YUL,1,"['11', '10']",855,"SWISS, Air CanadaOperated by Helvetic",2024-08-04,2024-08-11
+ZRH,YUL,1,"['11', '40']",939,"SWISS, Air CanadaOperated by Edelweiss Air",2024-08-04,2024-08-11
+ZRH,YUL,1,['13'],948,"SWISS, Air Canada",2024-08-04,2024-08-11
+ZRH,YUL,1,['11'],970,"AustrianSWISS, Air Canada",2024-08-04,2024-08-11
+ZRH,YUL,2,['24'],712,"Lufthansa, Air Canada",2024-08-04,2024-08-11
+ZRH,YUL,2,"['12', '50']",772,"SWISS, Lufthansa, Air Canada",2024-08-04,2024-08-11
+ZRH,YUL,1,"['11', '10']",811,"SWISS, Air CanadaOperated by Helvetic",2024-08-04,2024-08-11
+ZRH,YUL,1,"['13', '15']",839,Air FranceDelta,2024-08-04,2024-08-11
+ZRH,YUL,1,"['12', '53']",904,Air Canada,2024-08-04,2024-08-11
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-08-04,2024-08-11
-ZRH,YUL,1,"['11', '35']",966,LufthansaOperated by Lufthansa CityLine,2024-08-04,2024-08-11
-ZRH,YUL,1,"['10', '50']",995,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-04,2024-08-11
+ZRH,YUL,1,"['11', '35']",966,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-08-04,2024-08-11
 ZRH,YUL,1,['11'],996,"AustrianAir Canada, SWISS",2024-08-04,2024-08-11
-ZRH,YUL,2,['24'],637,"Lufthansa, Air Canada",2024-08-05,2024-08-12
-ZRH,YUL,2,"['26', '5']",748,"Lufthansa, Air CanadaOperated by Air Canada Express - Jazz",2024-08-05,2024-08-12
-ZRH,YUL,1,"['13', '30']",839,KLMDeltaOperated by KLM Cityhopper,2024-08-05,2024-08-12
-ZRH,YUL,1,"['11', '10']",855,"SWISS, Air CanadaOperated by Helvetic",2024-08-05,2024-08-12
+ZRH,YUL,2,['24'],712,"Lufthansa, Air Canada",2024-08-05,2024-08-12
+ZRH,YUL,2,"['12', '50']",772,"SWISS, Lufthansa, Air Canada",2024-08-05,2024-08-12
+ZRH,YUL,1,"['11', '10']",811,"SWISS, Air CanadaOperated by Helvetic",2024-08-05,2024-08-12
+ZRH,YUL,1,"['13', '15']",839,Air FranceDelta,2024-08-05,2024-08-12
+ZRH,YUL,1,"['12', '53']",904,Air Canada,2024-08-05,2024-08-12
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-08-05,2024-08-12
-ZRH,YUL,1,"['11', '35']",966,LufthansaOperated by Lufthansa CityLine,2024-08-05,2024-08-12
-ZRH,YUL,1,"['10', '50']",995,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-05,2024-08-12
+ZRH,YUL,1,"['11', '35']",966,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-08-05,2024-08-12
 ZRH,YUL,1,['11'],996,"AustrianAir Canada, SWISS",2024-08-05,2024-08-12
 ZRH,YUL,1,"['23', '20']",582,"SWISS, Air Canada",2024-08-05,2024-08-12
-ZRH,YUL,2,"['17', '22']",610,"Lufthansa, Air CanadaOperated by Air Canada Express - Jazz",2024-08-05,2024-08-12
+ZRH,YUL,1,"['15', '5']",649,"SWISS, LufthansaAir Canada",2024-08-05,2024-08-12
+ZRH,YUL,1,['11'],724,"LufthansaSWISS, Air Canada",2024-08-05,2024-08-12
 ZRH,YUL,1,"['28', '40']",754,"SWISS, Tap Air Portugal",2024-08-05,2024-08-12
-ZRH,YUL,1,['11'],757,"AustrianSWISS, Air Canada",2024-08-05,2024-08-12
-ZRH,YUL,1,"['10', '30']",826,"SWISS, Air Canada",2024-08-05,2024-08-12
-ZRH,YUL,1,"['10', '5']",838,"SWISS, Air Canada",2024-08-05,2024-08-12
+ZRH,YUL,1,"['10', '30']",872,"SWISS, Air Canada",2024-08-05,2024-08-12
+ZRH,YUL,1,['11'],898,AustrianSWISS,2024-08-05,2024-08-12
 ZRH,YUL,1,"['10', '20']",932,Air FranceDelta,2024-08-05,2024-08-12
+ZRH,YUL,1,"['10', '5']",982,"SWISS, Air Canada",2024-08-05,2024-08-12
 ZRH,YUL,1,"['23', '20']",582,"SWISS, Air Canada",2024-08-06,2024-08-13
-ZRH,YUL,2,"['17', '22']",610,"Lufthansa, Air CanadaOperated by Air Canada Express - Jazz",2024-08-06,2024-08-13
+ZRH,YUL,1,"['15', '5']",649,"SWISS, LufthansaAir Canada",2024-08-06,2024-08-13
+ZRH,YUL,1,['11'],724,"LufthansaSWISS, Air Canada",2024-08-06,2024-08-13
 ZRH,YUL,1,"['28', '40']",754,"SWISS, Tap Air Portugal",2024-08-06,2024-08-13
-ZRH,YUL,1,['11'],757,"AustrianSWISS, Air Canada",2024-08-06,2024-08-13
-ZRH,YUL,1,"['10', '30']",826,"SWISS, Air Canada",2024-08-06,2024-08-13
-ZRH,YUL,1,"['10', '5']",838,"SWISS, Air Canada",2024-08-06,2024-08-13
+ZRH,YUL,1,"['10', '30']",872,"SWISS, Air Canada",2024-08-06,2024-08-13
+ZRH,YUL,1,['11'],898,AustrianSWISS,2024-08-06,2024-08-13
 ZRH,YUL,1,"['10', '20']",932,Air FranceDelta,2024-08-06,2024-08-13
+ZRH,YUL,1,"['10', '5']",982,"SWISS, Air Canada",2024-08-06,2024-08-13
 ZRH,YUL,2,['13'],616,"SWISS, Lufthansa, Air Canada",2024-08-06,2024-08-13
 ZRH,YUL,1,"['12', '40']",662,"SWISS, Air CanadaOperated by Air Baltic",2024-08-06,2024-08-13
 ZRH,YUL,1,"['13', '10']",689,"SWISS, Tap Air Portugal",2024-08-06,2024-08-13
 ZRH,YUL,1,"['10', '30']",736,"SWISS, Air Canada",2024-08-06,2024-08-13
-ZRH,YUL,1,['11'],884,AustrianSWISS,2024-08-06,2024-08-13
 ZRH,YUL,2,['13'],616,"SWISS, Lufthansa, Air Canada",2024-08-07,2024-08-14
 ZRH,YUL,1,"['12', '40']",662,"SWISS, Air CanadaOperated by Air Baltic",2024-08-07,2024-08-14
 ZRH,YUL,1,"['13', '10']",689,"SWISS, Tap Air Portugal",2024-08-07,2024-08-14
 ZRH,YUL,1,"['10', '30']",736,"SWISS, Air Canada",2024-08-07,2024-08-14
-ZRH,YUL,1,['11'],884,AustrianSWISS,2024-08-07,2024-08-14
 ZRH,YUL,1,"['23', '20']",514,"SWISS, Air Canada",2024-08-07,2024-08-14
-ZRH,YUL,1,"['12', '40']",648,"SWISS, AustrianAir Canada",2024-08-07,2024-08-14
+ZRH,YUL,2,['24'],546,"Lufthansa, Air Canada",2024-08-07,2024-08-14
 ZRH,YUL,1,"['15', '30']",659,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-08-07,2024-08-14
 ZRH,YUL,1,"['14', '20']",676,"SWISS, Air Canada",2024-08-07,2024-08-14
-ZRH,YUL,1,"['11', '35']",734,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-08-07,2024-08-14
+ZRH,YUL,1,"['12', '40']",733,"SWISS, AustrianAir Canada",2024-08-07,2024-08-14
+ZRH,YUL,1,['11'],733,"AustrianSWISS, Air Canada",2024-08-07,2024-08-14
 ZRH,YUL,1,"['10', '30']",735,"SWISS, Air CanadaBrussels Airlines",2024-08-07,2024-08-14
 ZRH,YUL,1,"['10', '30']",848,"SWISS, Air Canada",2024-08-07,2024-08-14
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-08-07,2024-08-14
 ZRH,YUL,1,"['23', '20']",514,"SWISS, Air Canada",2024-08-08,2024-08-15
-ZRH,YUL,1,"['12', '40']",648,"SWISS, AustrianAir Canada",2024-08-08,2024-08-15
+ZRH,YUL,2,['24'],546,"Lufthansa, Air Canada",2024-08-08,2024-08-15
 ZRH,YUL,1,"['15', '30']",659,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-08-08,2024-08-15
 ZRH,YUL,1,"['14', '20']",676,"SWISS, Air Canada",2024-08-08,2024-08-15
-ZRH,YUL,1,"['11', '35']",734,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-08-08,2024-08-15
+ZRH,YUL,1,"['12', '40']",733,"SWISS, AustrianAir Canada",2024-08-08,2024-08-15
+ZRH,YUL,1,['11'],733,"AustrianSWISS, Air Canada",2024-08-08,2024-08-15
 ZRH,YUL,1,"['10', '30']",735,"SWISS, Air CanadaBrussels Airlines",2024-08-08,2024-08-15
 ZRH,YUL,1,"['10', '30']",848,"SWISS, Air Canada",2024-08-08,2024-08-15
 ZRH,YUL,1,"['10', '20']",932,Air France,2024-08-08,2024-08-15
 ZRH,YUL,2,"['31', '9']",554,"SWISS, Discover Airlines, Air Canada",2024-08-08,2024-08-15
 ZRH,YUL,2,"['30', '19']",554,"Lufthansa, Discover Airlines, Air Canada",2024-08-08,2024-08-15
-ZRH,YUL,2,['13'],572,"SWISS, Lufthansa, Air Canada",2024-08-08,2024-08-15
-ZRH,YUL,1,"['12', '40']",730,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-08-08,2024-08-15
 ZRH,YUL,1,"['13', '10']",753,Air France,2024-08-08,2024-08-15
-ZRH,YUL,1,['11'],755,"AustrianSWISS, Air Canada",2024-08-08,2024-08-15
+ZRH,YUL,1,"['10', '50']",764,"SWISS, Air CanadaLufthansa",2024-08-08,2024-08-15
 ZRH,YUL,1,"['10', '30']",768,"SWISS, Air CanadaBrussels Airlines",2024-08-08,2024-08-15
 ZRH,YUL,1,"['10', '30']",771,"SWISS, Air Canada",2024-08-08,2024-08-15
 ZRH,YUL,1,"['10', '20']",823,Air France,2024-08-08,2024-08-15
 ZRH,YUL,2,"['31', '9']",554,"SWISS, Discover Airlines, Air Canada",2024-08-09,2024-08-16
 ZRH,YUL,2,"['30', '19']",554,"Lufthansa, Discover Airlines, Air Canada",2024-08-09,2024-08-16
-ZRH,YUL,2,['13'],572,"SWISS, Lufthansa, Air Canada",2024-08-09,2024-08-16
-ZRH,YUL,1,"['12', '40']",730,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-08-09,2024-08-16
 ZRH,YUL,1,"['13', '10']",753,Air France,2024-08-09,2024-08-16
-ZRH,YUL,1,['11'],755,"AustrianSWISS, Air Canada",2024-08-09,2024-08-16
+ZRH,YUL,1,"['10', '50']",764,"SWISS, Air CanadaLufthansa",2024-08-09,2024-08-16
 ZRH,YUL,1,"['10', '30']",768,"SWISS, Air CanadaBrussels Airlines",2024-08-09,2024-08-16
 ZRH,YUL,1,"['10', '30']",771,"SWISS, Air Canada",2024-08-09,2024-08-16
 ZRH,YUL,1,"['10', '20']",823,Air France,2024-08-09,2024-08-16
@@ -432,12 +448,12 @@ ZRH,YUL,1,"['14', '8']",625,Air CanadaOperated by Air Canada Express - Jazz,2024
 ZRH,YUL,1,"['13', '20']",696,"SWISS, Air Canada",2024-08-09,2024-08-16
 ZRH,YUL,1,"['13', '15']",696,"SWISS, Air CanadaOperated by Air Baltic",2024-08-09,2024-08-16
 ZRH,YUL,1,"['10', '50']",771,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-09,2024-08-16
-ZRH,YUL,1,"['18', '55']",864,Air France,2024-08-09,2024-08-16
+ZRH,YUL,1,"['13', '15']",864,Air FranceDelta,2024-08-09,2024-08-16
 ZRH,YUL,1,"['14', '8']",625,Air CanadaOperated by Air Canada Express - Jazz,2024-08-10,2024-08-17
 ZRH,YUL,1,"['13', '20']",696,"SWISS, Air Canada",2024-08-10,2024-08-17
 ZRH,YUL,1,"['13', '15']",696,"SWISS, Air CanadaOperated by Air Baltic",2024-08-10,2024-08-17
 ZRH,YUL,1,"['10', '50']",771,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-10,2024-08-17
-ZRH,YUL,1,"['18', '55']",864,Air France,2024-08-10,2024-08-17
+ZRH,YUL,1,"['13', '15']",864,Air FranceDelta,2024-08-10,2024-08-17
 ZRH,YUL,2,['24'],666,"Lufthansa, Air Canada",2024-08-10,2024-08-17
 ZRH,YUL,1,"['23', '45']",721,"Lufthansa, Air CanadaSWISS",2024-08-10,2024-08-17
 ZRH,YUL,1,"['12', '40']",783,"SWISS, Air CanadaUnited",2024-08-10,2024-08-17
@@ -460,93 +476,97 @@ ZRH,YUL,1,"['14', '35']",581,"SWISS, Air Canada",2024-08-12,2024-08-19
 ZRH,YUL,1,"['11', '10']",646,"SWISS, Air CanadaOperated by Helvetic",2024-08-12,2024-08-19
 ZRH,YUL,1,"['10', '50']",654,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-12,2024-08-19
 ZRH,YUL,1,"['10', '30']",660,"SWISS, Air CanadaBrussels Airlines",2024-08-12,2024-08-19
+ZRH,YUL,2,"['29', '10']",476,"SWISS, Lufthansa, Air Canada",2024-08-12,2024-08-19
 ZRH,YUL,2,"['16', '8']",497,"Lufthansa, Air Canada",2024-08-12,2024-08-19
 ZRH,YUL,1,"['13', '20']",567,"SWISS, Air Canada",2024-08-12,2024-08-19
 ZRH,YUL,1,"['10', '50']",649,"SWISS, Air CanadaLufthansa",2024-08-12,2024-08-19
+ZRH,YUL,1,"['10', '20']",715,Air France,2024-08-12,2024-08-19
 ZRH,YUL,1,"['12', '53']",725,Air Canada,2024-08-12,2024-08-19
-ZRH,YUL,1,"['13', '55']",734,Tap Air Portugal,2024-08-12,2024-08-19
+ZRH,YUL,2,"['29', '10']",476,"SWISS, Lufthansa, Air Canada",2024-08-13,2024-08-20
 ZRH,YUL,2,"['16', '8']",497,"Lufthansa, Air Canada",2024-08-13,2024-08-20
 ZRH,YUL,1,"['13', '20']",567,"SWISS, Air Canada",2024-08-13,2024-08-20
 ZRH,YUL,1,"['10', '50']",649,"SWISS, Air CanadaLufthansa",2024-08-13,2024-08-20
+ZRH,YUL,1,"['10', '20']",715,Air France,2024-08-13,2024-08-20
 ZRH,YUL,1,"['12', '53']",725,Air Canada,2024-08-13,2024-08-20
-ZRH,YUL,1,"['13', '55']",734,Tap Air Portugal,2024-08-13,2024-08-20
 ZRH,YUL,2,['17'],486,"SWISS, Lufthansa, Air Canada",2024-08-13,2024-08-20
-ZRH,YUL,2,"['12', '50']",526,"SWISS, Lufthansa, Air Canada",2024-08-13,2024-08-20
-ZRH,YUL,2,['13'],534,"SWISS, Lufthansa, Air Canada",2024-08-13,2024-08-20
-ZRH,YUL,1,"['12', '40']",573,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-08-13,2024-08-20
+ZRH,YUL,1,"['11', '25']",605,"SWISS, Air Canada",2024-08-13,2024-08-20
+ZRH,YUL,1,"['12', '40']",649,Tap Air Portugal,2024-08-13,2024-08-20
 ZRH,YUL,1,"['10', '50']",651,"SWISS, Air CanadaLufthansa",2024-08-13,2024-08-20
+ZRH,YUL,1,['13'],651,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-13,2024-08-20
 ZRH,YUL,1,"['10', '30']",655,"SWISS, Air CanadaBrussels Airlines",2024-08-13,2024-08-20
 ZRH,YUL,2,['17'],486,"SWISS, Lufthansa, Air Canada",2024-08-14,2024-08-21
-ZRH,YUL,2,"['12', '50']",526,"SWISS, Lufthansa, Air Canada",2024-08-14,2024-08-21
-ZRH,YUL,2,['13'],534,"SWISS, Lufthansa, Air Canada",2024-08-14,2024-08-21
-ZRH,YUL,1,"['12', '40']",573,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-08-14,2024-08-21
+ZRH,YUL,1,"['11', '25']",605,"SWISS, Air Canada",2024-08-14,2024-08-21
+ZRH,YUL,1,"['12', '40']",649,Tap Air Portugal,2024-08-14,2024-08-21
 ZRH,YUL,1,"['10', '50']",651,"SWISS, Air CanadaLufthansa",2024-08-14,2024-08-21
+ZRH,YUL,1,['13'],651,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-14,2024-08-21
 ZRH,YUL,1,"['10', '30']",655,"SWISS, Air CanadaBrussels Airlines",2024-08-14,2024-08-21
 ZRH,YUL,1,"['25', '10']",459,"SWISS, Air Canada",2024-08-14,2024-08-21
-ZRH,YUL,1,"['21', '30']",465,"SWISS, Air Canada",2024-08-14,2024-08-21
 ZRH,YUL,2,"['28', '50']",479,"SWISS, Lufthansa, Air Canada",2024-08-14,2024-08-21
+ZRH,YUL,1,"['21', '30']",499,"SWISS, Air Canada",2024-08-14,2024-08-21
+ZRH,YUL,1,"['14', '20']",570,"SWISS, Air Canada",2024-08-14,2024-08-21
 ZRH,YUL,1,"['11', '25']",598,"SWISS, Air Canada",2024-08-14,2024-08-21
-ZRH,YUL,1,"['10', '30']",648,"SWISS, Air CanadaBrussels Airlines",2024-08-14,2024-08-21
+ZRH,YUL,1,"['10', '30']",674,"SWISS, Air CanadaBrussels Airlines",2024-08-14,2024-08-21
 ZRH,YUL,1,"['25', '10']",459,"SWISS, Air Canada",2024-08-15,2024-08-22
-ZRH,YUL,1,"['21', '30']",465,"SWISS, Air Canada",2024-08-15,2024-08-22
 ZRH,YUL,2,"['28', '50']",479,"SWISS, Lufthansa, Air Canada",2024-08-15,2024-08-22
+ZRH,YUL,1,"['21', '30']",499,"SWISS, Air Canada",2024-08-15,2024-08-22
+ZRH,YUL,1,"['14', '20']",570,"SWISS, Air Canada",2024-08-15,2024-08-22
 ZRH,YUL,1,"['11', '25']",598,"SWISS, Air Canada",2024-08-15,2024-08-22
-ZRH,YUL,1,"['10', '30']",648,"SWISS, Air CanadaBrussels Airlines",2024-08-15,2024-08-22
-ZRH,YUL,1,"['11', '25']",609,"SWISS, Air Canada",2024-08-15,2024-08-22
+ZRH,YUL,1,"['10', '30']",674,"SWISS, Air CanadaBrussels Airlines",2024-08-15,2024-08-22
+ZRH,YUL,1,"['11', '25']",624,"SWISS, Air Canada",2024-08-15,2024-08-22
 ZRH,YUL,1,"['10', '50']",658,"SWISS, Air CanadaLufthansa",2024-08-15,2024-08-22
 ZRH,YUL,1,"['10', '30']",659,"SWISS, Air CanadaBrussels Airlines",2024-08-15,2024-08-22
-ZRH,YUL,1,"['12', '40']",671,"SWISS, AustrianAir CanadaOperated by Air Baltic Corporation/Swiss",2024-08-15,2024-08-22
+ZRH,YUL,1,['11'],701,AustrianSWISS,2024-08-15,2024-08-22
 ZRH,YUL,1,['12'],702,"SWISS, Air CanadaOperated by Air Baltic",2024-08-15,2024-08-22
-ZRH,YUL,1,"['11', '25']",609,"SWISS, Air Canada",2024-08-16,2024-08-23
+ZRH,YUL,1,"['11', '25']",624,"SWISS, Air Canada",2024-08-16,2024-08-23
 ZRH,YUL,1,"['10', '50']",658,"SWISS, Air CanadaLufthansa",2024-08-16,2024-08-23
 ZRH,YUL,1,"['10', '30']",659,"SWISS, Air CanadaBrussels Airlines",2024-08-16,2024-08-23
-ZRH,YUL,1,"['12', '40']",671,"SWISS, AustrianAir CanadaOperated by Air Baltic Corporation/Swiss",2024-08-16,2024-08-23
+ZRH,YUL,1,['11'],701,AustrianSWISS,2024-08-16,2024-08-23
 ZRH,YUL,1,['12'],702,"SWISS, Air CanadaOperated by Air Baltic",2024-08-16,2024-08-23
-ZRH,YUL,1,"['22', '50']",517,"SWISS, Air CanadaOperated by Air Baltic",2024-08-16,2024-08-23
 ZRH,YUL,1,['19'],518,"SWISS, Air CanadaOperated by Air Baltic",2024-08-16,2024-08-23
-ZRH,YUL,1,"['10', '50']",689,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-16,2024-08-23
+ZRH,YUL,1,"['10', '50']",656,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-16,2024-08-23
 ZRH,YUL,1,['11'],723,"AustrianAir Canada, SWISS",2024-08-16,2024-08-23
+ZRH,YUL,1,"['10', '30']",738,"SWISS, Air Canada",2024-08-16,2024-08-23
+ZRH,YUL,1,"['12', '53']",740,Air CanadaSWISS,2024-08-16,2024-08-23
 ZRH,YUL,1,"['13', '15']",771,Air FranceDelta,2024-08-16,2024-08-23
-ZRH,YUL,1,"['12', '53']",773,Air Canada,2024-08-16,2024-08-23
-ZRH,YUL,1,"['10', '20']",950,Air France,2024-08-16,2024-08-23
-ZRH,YUL,1,"['22', '50']",517,"SWISS, Air CanadaOperated by Air Baltic",2024-08-17,2024-08-24
 ZRH,YUL,1,['19'],518,"SWISS, Air CanadaOperated by Air Baltic",2024-08-17,2024-08-24
-ZRH,YUL,1,"['10', '50']",689,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-17,2024-08-24
+ZRH,YUL,1,"['10', '50']",656,"SWISS, Air CanadaLufthansaOperated by Helvetic",2024-08-17,2024-08-24
 ZRH,YUL,1,['11'],723,"AustrianAir Canada, SWISS",2024-08-17,2024-08-24
+ZRH,YUL,1,"['10', '30']",738,"SWISS, Air Canada",2024-08-17,2024-08-24
+ZRH,YUL,1,"['12', '53']",740,Air CanadaSWISS,2024-08-17,2024-08-24
 ZRH,YUL,1,"['13', '15']",771,Air FranceDelta,2024-08-17,2024-08-24
-ZRH,YUL,1,"['12', '53']",773,Air Canada,2024-08-17,2024-08-24
-ZRH,YUL,1,"['10', '20']",950,Air France,2024-08-17,2024-08-24
-ZRH,YUL,1,"['18', '50']",556,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-17,2024-08-24
 ZRH,YUL,1,"['13', '20']",631,"SWISS, Air Canada",2024-08-17,2024-08-24
 ZRH,YUL,1,"['12', '40']",633,"SWISS, Air CanadaUnited",2024-08-17,2024-08-24
+ZRH,YUL,1,"['16', '45']",678,Air France,2024-08-17,2024-08-24
 ZRH,YUL,1,['12'],718,"SWISS, Air CanadaOperated by Air Baltic",2024-08-17,2024-08-24
-ZRH,YUL,1,"['18', '50']",556,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-18,2024-08-25
+ZRH,YUL,1,"['10', '20']",764,Air France,2024-08-17,2024-08-24
+ZRH,YUL,1,"['11', '53']",789,Air CanadaSWISS,2024-08-17,2024-08-24
 ZRH,YUL,1,"['13', '20']",631,"SWISS, Air Canada",2024-08-18,2024-08-25
 ZRH,YUL,1,"['12', '40']",633,"SWISS, Air CanadaUnited",2024-08-18,2024-08-25
+ZRH,YUL,1,"['16', '45']",678,Air France,2024-08-18,2024-08-25
 ZRH,YUL,1,['12'],718,"SWISS, Air CanadaOperated by Air Baltic",2024-08-18,2024-08-25
+ZRH,YUL,1,"['10', '20']",764,Air France,2024-08-18,2024-08-25
+ZRH,YUL,1,"['11', '53']",789,Air CanadaSWISS,2024-08-18,2024-08-25
 ZRH,YUL,1,"['13', '20']",506,"SWISS, Air Canada",2024-08-18,2024-08-25
 ZRH,YUL,1,"['14', '35']",506,"SWISS, Air Canada",2024-08-18,2024-08-25
 ZRH,YUL,1,"['14', '30']",506,"Lufthansa, Air CanadaSWISS",2024-08-18,2024-08-25
 ZRH,YUL,1,['13'],506,"SWISS, Air CanadaLufthansa",2024-08-18,2024-08-25
-ZRH,YUL,1,"['11', '25']",535,"SWISS, Air Canada",2024-08-18,2024-08-25
-ZRH,YUL,1,"['10', '20']",950,Air France,2024-08-18,2024-08-25
+ZRH,YUL,1,"['11', '10']",665,"SWISS, Air CanadaOperated by Helvetic",2024-08-18,2024-08-25
+ZRH,YUL,1,"['10', '20']",901,Air France,2024-08-18,2024-08-25
 ZRH,YUL,1,"['13', '20']",506,"SWISS, Air Canada",2024-08-19,2024-08-26
 ZRH,YUL,1,"['14', '35']",506,"SWISS, Air Canada",2024-08-19,2024-08-26
 ZRH,YUL,1,"['14', '30']",506,"Lufthansa, Air CanadaSWISS",2024-08-19,2024-08-26
 ZRH,YUL,1,['13'],506,"SWISS, Air CanadaLufthansa",2024-08-19,2024-08-26
-ZRH,YUL,1,"['11', '25']",535,"SWISS, Air Canada",2024-08-19,2024-08-26
-ZRH,YUL,1,"['10', '20']",950,Air France,2024-08-19,2024-08-26
-ZRH,YUL,1,"['13', '20']",506,"SWISS, Air Canada",2024-08-19,2024-08-26
-ZRH,YUL,1,"['14', '20']",506,"SWISS, Air Canada",2024-08-19,2024-08-26
-ZRH,YUL,1,"['14', '8']",584,Air CanadaOperated by Air Canada Express - Jazz,2024-08-19,2024-08-26
-ZRH,YUL,1,"['10', '50']",594,"SWISS, Air CanadaLufthansa",2024-08-19,2024-08-26
-ZRH,YUL,1,['11'],672,AustrianAir Canada,2024-08-19,2024-08-26
+ZRH,YUL,1,"['11', '10']",665,"SWISS, Air CanadaOperated by Helvetic",2024-08-19,2024-08-26
+ZRH,YUL,1,"['10', '20']",901,Air France,2024-08-19,2024-08-26
+ZRH,YUL,1,"['13', '20']",484,"SWISS, Air Canada",2024-08-19,2024-08-26
+ZRH,YUL,1,"['14', '20']",484,"SWISS, Air Canada",2024-08-19,2024-08-26
+ZRH,YUL,1,['24'],515,"SWISS, Air CanadaBrussels Airlines",2024-08-19,2024-08-26
+ZRH,YUL,1,"['10', '50']",581,"SWISS, Air CanadaLufthansa",2024-08-19,2024-08-26
 ZRH,YUL,1,"['10', '20']",764,Air France,2024-08-19,2024-08-26
-ZRH,YUL,1,"['13', '20']",506,"SWISS, Air Canada",2024-08-20,2024-08-27
-ZRH,YUL,1,"['14', '20']",506,"SWISS, Air Canada",2024-08-20,2024-08-27
-ZRH,YUL,1,"['14', '8']",584,Air CanadaOperated by Air Canada Express - Jazz,2024-08-20,2024-08-27
-ZRH,YUL,1,"['10', '50']",594,"SWISS, Air CanadaLufthansa",2024-08-20,2024-08-27
-ZRH,YUL,1,['11'],672,AustrianAir Canada,2024-08-20,2024-08-27
+ZRH,YUL,1,"['13', '20']",484,"SWISS, Air Canada",2024-08-20,2024-08-27
+ZRH,YUL,1,"['14', '20']",484,"SWISS, Air Canada",2024-08-20,2024-08-27
+ZRH,YUL,1,['24'],515,"SWISS, Air CanadaBrussels Airlines",2024-08-20,2024-08-27
+ZRH,YUL,1,"['10', '50']",581,"SWISS, Air CanadaLufthansa",2024-08-20,2024-08-27
 ZRH,YUL,1,"['10', '20']",764,Air France,2024-08-20,2024-08-27
 ZRH,YUL,1,['13'],484,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-20,2024-08-27
 ZRH,YUL,1,"['12', '40']",551,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-08-20,2024-08-27
@@ -588,67 +608,65 @@ ZRH,YUL,1,"['17', '23']",583,Air Canada,2024-08-24,2024-08-31
 ZRH,YUL,1,"['12', '40']",652,"SWISS, Air CanadaUnitedOperated by Air Baltic",2024-08-24,2024-08-31
 ZRH,YUL,1,"['12', '53']",658,Air Canada,2024-08-24,2024-08-31
 ZRH,YUL,1,"['11', '53']",740,Air CanadaSWISS,2024-08-24,2024-08-31
-ZRH,YUL,1,"['22', '40']",525,"SWISS, Air CanadaLufthansa",2024-08-24,2024-08-31
-ZRH,YUL,1,"['13', '5']",610,"SWISS, Air Canada",2024-08-24,2024-08-31
-ZRH,YUL,1,"['10', '50']",656,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-24,2024-08-31
-ZRH,YUL,1,"['11', '53']",682,Air CanadaSWISS,2024-08-24,2024-08-31
-ZRH,YUL,1,"['11', '25']",685,"SWISS, Air Canada",2024-08-24,2024-08-31
-ZRH,YUL,1,"['10', '30']",919,"SWISS, Air Canada",2024-08-24,2024-08-31
-ZRH,YUL,1,"['10', '20']",1,Air France,2024-08-24,2024-08-31
-ZRH,YUL,1,"['10', '30']",1,"SWISS, Air CanadaBrussels Airlines",2024-08-24,2024-08-31
-ZRH,YUL,1,"['22', '40']",525,"SWISS, Air CanadaLufthansa",2024-08-25,2024-09-01
-ZRH,YUL,1,"['13', '5']",610,"SWISS, Air Canada",2024-08-25,2024-09-01
-ZRH,YUL,1,"['10', '50']",656,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-25,2024-09-01
-ZRH,YUL,1,"['11', '53']",682,Air CanadaSWISS,2024-08-25,2024-09-01
-ZRH,YUL,1,"['11', '25']",685,"SWISS, Air Canada",2024-08-25,2024-09-01
-ZRH,YUL,1,"['10', '30']",919,"SWISS, Air Canada",2024-08-25,2024-09-01
-ZRH,YUL,1,"['10', '20']",1,Air France,2024-08-25,2024-09-01
-ZRH,YUL,1,"['10', '30']",1,"SWISS, Air CanadaBrussels Airlines",2024-08-25,2024-09-01
-ZRH,YUL,1,"['22', '40']",521,"SWISS, Air CanadaLufthansa",2024-08-25,2024-09-01
+ZRH,YUL,1,"['22', '40']",596,"SWISS, Air CanadaLufthansa",2024-08-24,2024-08-31
+ZRH,YUL,1,"['18', '50']",621,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-24,2024-08-31
+ZRH,YUL,2,"['16', '35']",689,Lufthansa,2024-08-24,2024-08-31
+ZRH,YUL,1,"['10', '50']",718,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-24,2024-08-31
+ZRH,YUL,1,"['11', '53']",727,Air CanadaSWISS,2024-08-24,2024-08-31
+ZRH,YUL,1,"['10', '20']",1005,Air France,2024-08-24,2024-08-31
+ZRH,YUL,1,"['22', '40']",596,"SWISS, Air CanadaLufthansa",2024-08-25,2024-09-01
+ZRH,YUL,1,"['18', '50']",621,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-25,2024-09-01
+ZRH,YUL,2,"['16', '35']",689,Lufthansa,2024-08-25,2024-09-01
+ZRH,YUL,1,"['10', '50']",718,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-25,2024-09-01
+ZRH,YUL,1,"['11', '53']",727,Air CanadaSWISS,2024-08-25,2024-09-01
+ZRH,YUL,1,"['10', '20']",1005,Air France,2024-08-25,2024-09-01
+ZRH,YUL,1,"['22', '40']",515,"SWISS, Air CanadaLufthansa",2024-08-25,2024-09-01
 ZRH,YUL,1,"['29', '55']",564,"SWISS, Tap Air Portugal",2024-08-25,2024-09-01
-ZRH,YUL,1,"['10', '30']",660,"SWISS, Air CanadaBrussels Airlines",2024-08-25,2024-09-01
+ZRH,YUL,1,"['10', '30']",634,"SWISS, Air CanadaBrussels Airlines",2024-08-25,2024-09-01
 ZRH,YUL,1,"['11', '25']",685,"SWISS, Air Canada",2024-08-25,2024-09-01
-ZRH,YUL,1,"['22', '40']",521,"SWISS, Air CanadaLufthansa",2024-08-26,2024-09-02
+ZRH,YUL,1,"['22', '40']",515,"SWISS, Air CanadaLufthansa",2024-08-26,2024-09-02
 ZRH,YUL,1,"['29', '55']",564,"SWISS, Tap Air Portugal",2024-08-26,2024-09-02
-ZRH,YUL,1,"['10', '30']",660,"SWISS, Air CanadaBrussels Airlines",2024-08-26,2024-09-02
+ZRH,YUL,1,"['10', '30']",634,"SWISS, Air CanadaBrussels Airlines",2024-08-26,2024-09-02
 ZRH,YUL,1,"['11', '25']",685,"SWISS, Air Canada",2024-08-26,2024-09-02
 ZRH,YUL,1,"['12', '40']",467,"SWISS, Air CanadaOperated by Helvetic Airways/Swiss",2024-08-26,2024-09-02
 ZRH,YUL,1,"['10', '50']",482,"SWISS, Air CanadaLufthansa",2024-08-26,2024-09-02
 ZRH,YUL,1,"['15', '18']",495,DeltaOperated by Endeavor Air DBA Delta Connection,2024-08-26,2024-09-02
-ZRH,YUL,1,"['12', '40']",541,"SWISS, AustrianAir Canada",2024-08-26,2024-09-02
-ZRH,YUL,1,['11'],541,"AustrianAir Canada, SWISS",2024-08-26,2024-09-02
-ZRH,YUL,1,"['10', '20']",710,Air France,2024-08-26,2024-09-02
+ZRH,YUL,1,"['11', '53']",623,Air Canada,2024-08-26,2024-09-02
+ZRH,YUL,1,['11'],633,Austrian,2024-08-26,2024-09-02
+ZRH,YUL,1,"['10', '20']",814,Air France,2024-08-26,2024-09-02
 ZRH,YUL,1,"['12', '40']",467,"SWISS, Air CanadaOperated by Helvetic Airways/Swiss",2024-08-27,2024-09-03
 ZRH,YUL,1,"['10', '50']",482,"SWISS, Air CanadaLufthansa",2024-08-27,2024-09-03
 ZRH,YUL,1,"['15', '18']",495,DeltaOperated by Endeavor Air DBA Delta Connection,2024-08-27,2024-09-03
-ZRH,YUL,1,"['12', '40']",541,"SWISS, AustrianAir Canada",2024-08-27,2024-09-03
-ZRH,YUL,1,['11'],541,"AustrianAir Canada, SWISS",2024-08-27,2024-09-03
-ZRH,YUL,1,"['10', '20']",710,Air France,2024-08-27,2024-09-03
+ZRH,YUL,1,"['11', '53']",623,Air Canada,2024-08-27,2024-09-03
+ZRH,YUL,1,['11'],633,Austrian,2024-08-27,2024-09-03
+ZRH,YUL,1,"['10', '20']",814,Air France,2024-08-27,2024-09-03
 ZRH,YUL,1,"['13', '20']",444,"SWISS, Air Canada",2024-08-27,2024-09-03
 ZRH,YUL,1,"['11', '25']",473,"SWISS, Air Canada",2024-08-27,2024-09-03
 ZRH,YUL,1,"['10', '50']",484,"SWISS, Air CanadaLufthansa",2024-08-27,2024-09-03
+ZRH,YUL,1,"['10', '20']",758,Air France,2024-08-27,2024-09-03
 ZRH,YUL,1,"['13', '20']",444,"SWISS, Air Canada",2024-08-28,2024-09-04
 ZRH,YUL,1,"['11', '25']",473,"SWISS, Air Canada",2024-08-28,2024-09-04
 ZRH,YUL,1,"['10', '50']",484,"SWISS, Air CanadaLufthansa",2024-08-28,2024-09-04
-ZRH,YUL,1,"['12', '40']",482,"SWISS, AustrianAir Canada",2024-08-28,2024-09-04
+ZRH,YUL,1,"['10', '20']",758,Air France,2024-08-28,2024-09-04
 ZRH,YUL,1,"['13', '15']",484,Air France,2024-08-28,2024-09-04
 ZRH,YUL,1,"['10', '30']",484,"SWISS, Air CanadaBrussels Airlines",2024-08-28,2024-09-04
-ZRH,YUL,1,"['12', '40']",482,"SWISS, AustrianAir Canada",2024-08-29,2024-09-05
+ZRH,YUL,1,"['12', '35']",486,"LufthansaAir Canada, SWISS",2024-08-28,2024-09-04
+ZRH,YUL,1,"['13', '55']",504,Tap Air Portugal,2024-08-28,2024-09-04
 ZRH,YUL,1,"['13', '15']",484,Air France,2024-08-29,2024-09-05
 ZRH,YUL,1,"['10', '30']",484,"SWISS, Air CanadaBrussels Airlines",2024-08-29,2024-09-05
-ZRH,YUL,1,"['17', '35']",464,"Lufthansa, Air Canada",2024-08-29,2024-09-05
+ZRH,YUL,1,"['12', '35']",486,"LufthansaAir Canada, SWISS",2024-08-29,2024-09-05
+ZRH,YUL,1,"['13', '55']",504,Tap Air Portugal,2024-08-29,2024-09-05
 ZRH,YUL,1,"['12', '40']",467,"SWISS, Air CanadaUnited",2024-08-29,2024-09-05
 ZRH,YUL,1,"['21', '10']",469,Tap Air Portugal,2024-08-29,2024-09-05
 ZRH,YUL,1,"['11', '25']",473,"SWISS, Air Canada",2024-08-29,2024-09-05
 ZRH,YUL,1,"['10', '50']",484,"SWISS, Air CanadaLufthansa",2024-08-29,2024-09-05
-ZRH,YUL,1,['13'],486,"SWISS, Air CanadaLufthansa",2024-08-29,2024-09-05
+ZRH,YUL,1,['13'],490,"SWISS, Air CanadaLufthansa",2024-08-29,2024-09-05
 ZRH,YUL,1,"['15', '17']",521,DeltaOperated by Endeavor Air DBA Delta Connection,2024-08-29,2024-09-05
-ZRH,YUL,1,"['17', '35']",464,"Lufthansa, Air Canada",2024-08-30,2024-09-06
 ZRH,YUL,1,"['12', '40']",467,"SWISS, Air CanadaUnited",2024-08-30,2024-09-06
 ZRH,YUL,1,"['21', '10']",469,Tap Air Portugal,2024-08-30,2024-09-06
 ZRH,YUL,1,"['11', '25']",473,"SWISS, Air Canada",2024-08-30,2024-09-06
 ZRH,YUL,1,"['10', '50']",484,"SWISS, Air CanadaLufthansa",2024-08-30,2024-09-06
-ZRH,YUL,1,['13'],486,"SWISS, Air CanadaLufthansa",2024-08-30,2024-09-06
+ZRH,YUL,1,['13'],490,"SWISS, Air CanadaLufthansa",2024-08-30,2024-09-06
 ZRH,YUL,1,"['15', '17']",521,DeltaOperated by Endeavor Air DBA Delta Connection,2024-08-30,2024-09-06
 ZRH,YUL,1,"['15', '50']",440,KLMDelta,2024-08-30,2024-09-06
 ZRH,YUL,1,"['15', '5']",480,"SWISS, LufthansaOperated by Helvetic Airways for Swiss International Air Lines",2024-08-30,2024-09-06
@@ -662,16 +680,16 @@ ZRH,YUL,1,"['13', '50']",480,"LufthansaAir Canada, SWISS",2024-08-31,2024-09-07
 ZRH,YUL,1,"['11', '25']",489,"SWISS, Air Canada",2024-08-31,2024-09-07
 ZRH,YUL,1,"['12', '40']",556,"SWISS, Austrian",2024-08-31,2024-09-07
 ZRH,YUL,1,['11'],556,"AustrianAir Canada, SWISS",2024-08-31,2024-09-07
-ZRH,YUL,1,"['13', '55']",559,Tap Air Portugal,2024-08-31,2024-09-07
-ZRH,YUL,1,"['10', '50']",591,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-31,2024-09-07
-ZRH,YUL,1,"['11', '25']",619,"SWISS, Air CanadaOperated by Air Baltic",2024-08-31,2024-09-07
-ZRH,YUL,1,"['12', '40']",671,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-08-31,2024-09-07
-ZRH,YUL,1,['11'],671,"AustrianAir Canada, SWISS",2024-08-31,2024-09-07
-ZRH,YUL,1,"['13', '55']",559,Tap Air Portugal,2024-09-01,2024-09-08
-ZRH,YUL,1,"['10', '50']",591,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-09-01,2024-09-08
-ZRH,YUL,1,"['11', '25']",619,"SWISS, Air CanadaOperated by Air Baltic",2024-09-01,2024-09-08
-ZRH,YUL,1,"['12', '40']",671,"SWISS, AustrianAir CanadaOperated by Air Baltic",2024-09-01,2024-09-08
-ZRH,YUL,1,['11'],671,"AustrianAir Canada, SWISS",2024-09-01,2024-09-08
+ZRH,YUL,1,"['13', '55']",579,Tap Air Portugal,2024-08-31,2024-09-07
+ZRH,YUL,1,"['10', '50']",580,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-08-31,2024-09-07
+ZRH,YUL,1,"['11', '25']",589,"SWISS, Air CanadaOperated by Air Baltic",2024-08-31,2024-09-07
+ZRH,YUL,1,['11'],636,"AustrianAir Canada, SWISS",2024-08-31,2024-09-07
+ZRH,YUL,1,"['10', '30']",714,"SWISS, Air CanadaBrussels Airlines",2024-08-31,2024-09-07
+ZRH,YUL,1,"['13', '55']",579,Tap Air Portugal,2024-09-01,2024-09-08
+ZRH,YUL,1,"['10', '50']",580,"SWISS, Air CanadaLufthansaOperated by Air Baltic",2024-09-01,2024-09-08
+ZRH,YUL,1,"['11', '25']",589,"SWISS, Air CanadaOperated by Air Baltic",2024-09-01,2024-09-08
+ZRH,YUL,1,['11'],636,"AustrianAir Canada, SWISS",2024-09-01,2024-09-08
+ZRH,YUL,1,"['10', '30']",714,"SWISS, Air CanadaBrussels Airlines",2024-09-01,2024-09-08
 ZRH,YUL,1,"['13', '50']",539,"LufthansaAir Canada, SWISS",2024-09-01,2024-09-08
 ZRH,YUL,1,['11'],541,"AustrianAir Canada, SWISS",2024-09-01,2024-09-08
 ZRH,YUL,1,"['15', '50']",584,KLMDelta,2024-09-01,2024-09-08
@@ -738,12 +756,12 @@ ZRH,YUL,1,['11'],561,"AustrianAir Canada, SWISS",2024-09-07,2024-09-14
 ZRH,YUL,1,"['12', '55']",569,Air CanadaSWISS,2024-09-07,2024-09-14
 ZRH,YUL,1,"['13', '30']",577,KLMDelta,2024-09-07,2024-09-14
 ZRH,YUL,1,['11'],626,KLMDeltaOperated by KLM Cityhopper,2024-09-07,2024-09-14
-ZRH,YUL,1,"['11', '25']",626,"SWISS, Air Canada",2024-09-07,2024-09-14
+ZRH,YUL,1,"['11', '25']",654,"SWISS, Air Canada",2024-09-07,2024-09-14
 ZRH,YUL,1,['11'],561,"AustrianAir Canada, SWISS",2024-09-08,2024-09-15
 ZRH,YUL,1,"['12', '55']",569,Air CanadaSWISS,2024-09-08,2024-09-15
 ZRH,YUL,1,"['13', '30']",577,KLMDelta,2024-09-08,2024-09-15
 ZRH,YUL,1,['11'],626,KLMDeltaOperated by KLM Cityhopper,2024-09-08,2024-09-15
-ZRH,YUL,1,"['11', '25']",626,"SWISS, Air Canada",2024-09-08,2024-09-15
+ZRH,YUL,1,"['11', '25']",654,"SWISS, Air Canada",2024-09-08,2024-09-15
 ZRH,YUL,1,"['14', '45']",443,"SWISS, Air Canada",2024-09-08,2024-09-15
 ZRH,YUL,1,"['10', '30']",444,"SWISS, Air CanadaBrussels Airlines",2024-09-08,2024-09-15
 ZRH,YUL,1,"['12', '25']",480,"SWISS, AustrianAir CanadaOperated by Edelweiss Air",2024-09-08,2024-09-15
@@ -873,13 +891,13 @@ ZRH,YUL,1,"['12', '40']",449,"SWISS, Air CanadaUnited",2024-09-19,2024-09-26
 ZRH,YUL,1,"['11', '35']",460,"SWISS, Air Canada",2024-09-19,2024-09-26
 ZRH,YUL,1,"['11', '25']",475,"SWISS, Air Canada",2024-09-19,2024-09-26
 ZRH,YUL,1,['11'],533,KLMDelta,2024-09-19,2024-09-26
-ZRH,YUL,1,"['10', '20']",1,Air France,2024-09-19,2024-09-26
+ZRH,YUL,1,"['10', '20']",1100,Air France,2024-09-19,2024-09-26
 ZRH,YUL,1,"['11', '10']",446,"SWISS, Air CanadaLufthansa",2024-09-20,2024-09-27
 ZRH,YUL,1,"['12', '40']",449,"SWISS, Air CanadaUnited",2024-09-20,2024-09-27
 ZRH,YUL,1,"['11', '35']",460,"SWISS, Air Canada",2024-09-20,2024-09-27
 ZRH,YUL,1,"['11', '25']",475,"SWISS, Air Canada",2024-09-20,2024-09-27
 ZRH,YUL,1,['11'],533,KLMDelta,2024-09-20,2024-09-27
-ZRH,YUL,1,"['10', '20']",1,Air France,2024-09-20,2024-09-27
+ZRH,YUL,1,"['10', '20']",1100,Air France,2024-09-20,2024-09-27
 ZRH,YUL,1,"['14', '8']",455,Air CanadaSWISSOperated by Air Canada Express - Jazz,2024-09-20,2024-09-27
 ZRH,YUL,1,"['15', '5']",492,"SWISS, LufthansaAir CanadaOperated by Helvetic",2024-09-20,2024-09-27
 ZRH,YUL,1,['11'],577,KLMDelta,2024-09-20,2024-09-27
@@ -1142,15 +1160,15 @@ ZRH,YUL,1,"['11', '35']",519,"SWISS, Air CanadaOperated by Air Baltic",2024-10-1
 ZRH,YUL,1,"['11', '25']",534,"SWISS, Air Canada",2024-10-14,2024-10-21
 ZRH,YUL,1,['11'],572,KLMDeltaOperated by KLM Cityhopper,2024-10-14,2024-10-21
 ZRH,YUL,1,"['10', '20']",697,Air France,2024-10-14,2024-10-21
-ZRH,YUL,1,"['14', '20']",424,"SWISS, Air CanadaOperated by Air Baltic Corporation/Swiss",2024-10-14,2024-10-21
 ZRH,YUL,1,"['14', '8']",428,Air CanadaOperated by Air Canada Express - Jazz,2024-10-14,2024-10-21
 ZRH,YUL,1,"['15', '5']",439,"SWISS, LufthansaAir Canada",2024-10-14,2024-10-21
+ZRH,YUL,1,"['14', '20']",439,"SWISS, Air CanadaOperated by Air Baltic Corporation/Swiss",2024-10-14,2024-10-21
 ZRH,YUL,1,"['13', '50']",464,"LufthansaAir Canada, SWISS",2024-10-14,2024-10-21
 ZRH,YUL,1,['11'],556,"AustrianAir Canada, SWISS",2024-10-14,2024-10-21
 ZRH,YUL,0,"['8', '20']",618,SWISSAir Canada,2024-10-14,2024-10-21
-ZRH,YUL,1,"['14', '20']",424,"SWISS, Air CanadaOperated by Air Baltic Corporation/Swiss",2024-10-15,2024-10-22
 ZRH,YUL,1,"['14', '8']",428,Air CanadaOperated by Air Canada Express - Jazz,2024-10-15,2024-10-22
 ZRH,YUL,1,"['15', '5']",439,"SWISS, LufthansaAir Canada",2024-10-15,2024-10-22
+ZRH,YUL,1,"['14', '20']",439,"SWISS, Air CanadaOperated by Air Baltic Corporation/Swiss",2024-10-15,2024-10-22
 ZRH,YUL,1,"['13', '50']",464,"LufthansaAir Canada, SWISS",2024-10-15,2024-10-22
 ZRH,YUL,1,['11'],556,"AustrianAir Canada, SWISS",2024-10-15,2024-10-22
 ZRH,YUL,0,"['8', '20']",618,SWISSAir Canada,2024-10-15,2024-10-22
@@ -1342,22 +1360,22 @@ ZRH,YUL,1,"['24', '15']",428,Air CanadaOperated by Air Canada Express - Jazz,202
 ZRH,YUL,1,"['14', '25']",433,Air Canada,2024-10-31,2024-11-07
 ZRH,YUL,1,"['11', '10']",438,"SWISS, Air Canada",2024-10-31,2024-11-07
 ZRH,YUL,1,"['17', '10']",442,"SWISS, LufthansaAir CanadaOperated by Helvetic",2024-10-31,2024-11-07
-ZRH,YUL,1,"['21', '50']",477,"Lufthansa, Air Canada",2024-10-31,2024-11-07
-ZRH,YUL,1,"['11', '45']",484,Air FranceDelta,2024-10-31,2024-11-07
+ZRH,YUL,1,"['21', '50']",460,"Lufthansa, Air Canada",2024-10-31,2024-11-07
+ZRH,YUL,1,"['11', '45']",464,Air FranceDelta,2024-10-31,2024-11-07
 ZRH,YUL,1,"['24', '15']",428,Air CanadaOperated by Air Canada Express - Jazz,2024-11-01,2024-11-08
 ZRH,YUL,1,"['14', '25']",433,Air Canada,2024-11-01,2024-11-08
 ZRH,YUL,1,"['11', '10']",438,"SWISS, Air Canada",2024-11-01,2024-11-08
 ZRH,YUL,1,"['17', '10']",442,"SWISS, LufthansaAir CanadaOperated by Helvetic",2024-11-01,2024-11-08
-ZRH,YUL,1,"['21', '50']",477,"Lufthansa, Air Canada",2024-11-01,2024-11-08
-ZRH,YUL,1,"['11', '45']",484,Air FranceDelta,2024-11-01,2024-11-08
+ZRH,YUL,1,"['21', '50']",460,"Lufthansa, Air Canada",2024-11-01,2024-11-08
+ZRH,YUL,1,"['11', '45']",464,Air FranceDelta,2024-11-01,2024-11-08
 ZRH,YUL,1,"['24', '15']",428,Air CanadaOperated by Air Canada Express - Jazz,2024-11-01,2024-11-08
 ZRH,YUL,1,['20'],464,Tap Air Portugal,2024-11-01,2024-11-08
-ZRH,YUL,2,"['12', '10']",467,"SWISS, LufthansaOperated by Helvetic Airways for Swiss International Air Lines",2024-11-01,2024-11-08
+ZRH,YUL,1,"['17', '10']",481,AmericanOperated by Piedmont Airlines as American Eagle,2024-11-01,2024-11-08
 ZRH,YUL,1,"['14', '14']",501,DeltaOperated by Endeavor Air DBA Delta Connection,2024-11-01,2024-11-08
 ZRH,YUL,1,"['11', '45']",533,Air FranceDelta,2024-11-01,2024-11-08
 ZRH,YUL,1,"['24', '15']",428,Air CanadaOperated by Air Canada Express - Jazz,2024-11-02,2024-11-09
 ZRH,YUL,1,['20'],464,Tap Air Portugal,2024-11-02,2024-11-09
-ZRH,YUL,2,"['12', '10']",467,"SWISS, LufthansaOperated by Helvetic Airways for Swiss International Air Lines",2024-11-02,2024-11-09
+ZRH,YUL,1,"['17', '10']",481,AmericanOperated by Piedmont Airlines as American Eagle,2024-11-02,2024-11-09
 ZRH,YUL,1,"['14', '14']",501,DeltaOperated by Endeavor Air DBA Delta Connection,2024-11-02,2024-11-09
 ZRH,YUL,1,"['11', '45']",533,Air FranceDelta,2024-11-02,2024-11-09
 ZRH,YUL,1,"['25', '15']",443,Air CanadaOperated by Air Canada Express - Jazz,2024-11-02,2024-11-09
@@ -1600,20 +1618,20 @@ ZRH,YUL,1,"['12', '25']",418,"British AirwaysAmerican, Finnair",2024-11-26,2024-
 ZRH,YUL,1,"['11', '45']",440,Air FranceDelta,2024-11-26,2024-12-03
 ZRH,YUL,1,"['14', '55']",442,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-11-26,2024-12-03
 ZRH,YUL,1,"['12', '15']",447,Air CanadaSWISS,2024-11-26,2024-12-03
-ZRH,YUL,1,"['12', '10']",452,"SWISS, Air Canada",2024-11-26,2024-12-03
+ZRH,YUL,1,"['12', '10']",453,"SWISS, Air Canada",2024-11-26,2024-12-03
 ZRH,YUL,1,"['12', '25']",418,"British AirwaysAmerican, Finnair",2024-11-27,2024-12-04
 ZRH,YUL,1,"['11', '45']",440,Air FranceDelta,2024-11-27,2024-12-04
 ZRH,YUL,1,"['14', '55']",442,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-11-27,2024-12-04
 ZRH,YUL,1,"['12', '15']",447,Air CanadaSWISS,2024-11-27,2024-12-04
-ZRH,YUL,1,"['12', '10']",452,"SWISS, Air Canada",2024-11-27,2024-12-04
+ZRH,YUL,1,"['12', '10']",453,"SWISS, Air Canada",2024-11-27,2024-12-04
 ZRH,YUL,1,"['13', '55']",438,"SWISS, Air CanadaOperated by Helvetic",2024-11-27,2024-12-04
 ZRH,YUL,1,"['11', '45']",440,Air FranceDelta,2024-11-27,2024-12-04
-ZRH,YUL,1,"['13', '15']",446,"SWISS, Air CanadaOperated by Helvetic",2024-11-27,2024-12-04
-ZRH,YUL,1,"['11', '55']",468,"SWISS, Air Canada",2024-11-27,2024-12-04
+ZRH,YUL,1,"['13', '15']",447,"SWISS, Air CanadaOperated by Helvetic",2024-11-27,2024-12-04
+ZRH,YUL,1,"['11', '55']",469,"SWISS, Air Canada",2024-11-27,2024-12-04
 ZRH,YUL,1,"['13', '55']",438,"SWISS, Air CanadaOperated by Helvetic",2024-11-28,2024-12-05
 ZRH,YUL,1,"['11', '45']",440,Air FranceDelta,2024-11-28,2024-12-05
-ZRH,YUL,1,"['13', '15']",446,"SWISS, Air CanadaOperated by Helvetic",2024-11-28,2024-12-05
-ZRH,YUL,1,"['11', '55']",468,"SWISS, Air Canada",2024-11-28,2024-12-05
+ZRH,YUL,1,"['13', '15']",447,"SWISS, Air CanadaOperated by Helvetic",2024-11-28,2024-12-05
+ZRH,YUL,1,"['11', '55']",469,"SWISS, Air Canada",2024-11-28,2024-12-05
 ZRH,YUL,1,"['15', '25']",447,Air Canada,2024-11-28,2024-12-05
 ZRH,YUL,1,"['11', '45']",484,Air FranceDelta,2024-11-28,2024-12-05
 ZRH,YUL,1,"['10', '45']",554,"SWISS, Air CanadaLufthansa",2024-11-28,2024-12-05
@@ -1777,7 +1795,7 @@ ZRH,YUL,1,"['14', '7']",606,"SWISS, UnitedOperated by Republic Airways DBA Unite
 ZRH,YUL,1,"['14', '55']",624,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-12-14,2024-12-21
 ZRH,YUL,1,"['12', '35']",697,"SWISS, AustrianAir Canada",2024-12-14,2024-12-21
 ZRH,YUL,1,"['10', '45']",774,"SWISS, Air CanadaBrussels Airlines",2024-12-14,2024-12-21
-ZRH,YUL,1,"['10', '45']",1,Air FranceDelta,2024-12-14,2024-12-21
+ZRH,YUL,1,"['10', '45']",1125,Air FranceDelta,2024-12-14,2024-12-21
 ZRH,YUL,2,"['37', '5']",589,"SWISS, Air Canada",2024-12-15,2024-12-22
 ZRH,YUL,1,"['17', '10']",594,"SWISS, LufthansaAir Canada",2024-12-15,2024-12-22
 ZRH,YUL,1,"['14', '20']",603,"SWISS, Air CanadaOperated by Air Baltic",2024-12-15,2024-12-22
@@ -1785,19 +1803,19 @@ ZRH,YUL,1,"['14', '7']",606,"SWISS, UnitedOperated by Republic Airways DBA Unite
 ZRH,YUL,1,"['14', '55']",624,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-12-15,2024-12-22
 ZRH,YUL,1,"['12', '35']",697,"SWISS, AustrianAir Canada",2024-12-15,2024-12-22
 ZRH,YUL,1,"['10', '45']",774,"SWISS, Air CanadaBrussels Airlines",2024-12-15,2024-12-22
-ZRH,YUL,1,"['10', '45']",1,Air FranceDelta,2024-12-15,2024-12-22
+ZRH,YUL,1,"['10', '45']",1125,Air FranceDelta,2024-12-15,2024-12-22
 ZRH,YUL,1,"['20', '40']",462,"SWISS, Air Canada",2024-12-15,2024-12-22
 ZRH,YUL,1,"['17', '37']",471,UnitedAir CanadaOperated by Republic Airways DBA United Express,2024-12-15,2024-12-22
 ZRH,YUL,1,"['12', '35']",483,"SWISS, AustrianAir Canada",2024-12-15,2024-12-22
 ZRH,YUL,1,"['13', '20']",504,"SWISS, Air CanadaOperated by Helvetic",2024-12-15,2024-12-22
 ZRH,YUL,1,"['12', '45']",594,Tap Air Portugal,2024-12-15,2024-12-22
-ZRH,YUL,1,"['10', '55']",1,"British AirwaysAmerican, Finnair",2024-12-15,2024-12-22
+ZRH,YUL,1,"['10', '55']",1108,"British AirwaysAmerican, Finnair",2024-12-15,2024-12-22
 ZRH,YUL,1,"['20', '40']",462,"SWISS, Air Canada",2024-12-16,2024-12-23
 ZRH,YUL,1,"['17', '37']",471,UnitedAir CanadaOperated by Republic Airways DBA United Express,2024-12-16,2024-12-23
 ZRH,YUL,1,"['12', '35']",483,"SWISS, AustrianAir Canada",2024-12-16,2024-12-23
 ZRH,YUL,1,"['13', '20']",504,"SWISS, Air CanadaOperated by Helvetic",2024-12-16,2024-12-23
 ZRH,YUL,1,"['12', '45']",594,Tap Air Portugal,2024-12-16,2024-12-23
-ZRH,YUL,1,"['10', '55']",1,"British AirwaysAmerican, Finnair",2024-12-16,2024-12-23
+ZRH,YUL,1,"['10', '55']",1108,"British AirwaysAmerican, Finnair",2024-12-16,2024-12-23
 ZRH,YUL,1,"['20', '40']",476,"SWISS, Air Canada",2024-12-16,2024-12-23
 ZRH,YUL,1,"['17', '10']",479,"SWISS, LufthansaAir CanadaOperated by Air Baltic",2024-12-16,2024-12-23
 ZRH,YUL,1,"['14', '32']",491,"SWISS, UnitedOperated by Republic Airways DBA United Express",2024-12-16,2024-12-23
@@ -1835,32 +1853,36 @@ ZRH,YUL,2,"['13', '5']",509,LufthansaAir Canada,2024-12-20,2024-12-27
 ZRH,YUL,1,"['17', '10']",523,"SWISS, LufthansaAir Canada",2024-12-20,2024-12-27
 ZRH,YUL,1,"['10', '45']",673,"LufthansaAir Canada, SWISS",2024-12-20,2024-12-27
 ZRH,YUL,1,"['20', '40']",583,"SWISS, Air Canada",2024-12-20,2024-12-27
+ZRH,YUL,2,"['15', '25']",583,"SWISS, LufthansaAir CanadaOperated by Air Baltic Corporation/Swiss, Air Dolomiti/Lufthansa",2024-12-20,2024-12-27
 ZRH,YUL,2,"['17', '5']",596,"SWISS, Air Canada",2024-12-20,2024-12-27
-ZRH,YUL,2,"['17', '10']",596,"SWISS, Air CanadaOperated by Helvetic",2024-12-20,2024-12-27
 ZRH,YUL,1,"['20', '35']",670,"SWISS, Air CanadaOperated by Helvetic",2024-12-20,2024-12-27
+ZRH,YUL,2,"['35', '50']",685,"SWISS, LufthansaAir CanadaOperated by Helvetic Airways/Swiss, Air Dolomiti/Lufthansa",2024-12-20,2024-12-27
 ZRH,YUL,2,"['13', '5']",686,LufthansaAir Canada,2024-12-20,2024-12-27
 ZRH,YUL,2,"['15', '20']",772,Lufthansa,2024-12-20,2024-12-27
 ZRH,YUL,2,"['15', '20']",772,Lufthansa,2024-12-20,2024-12-27
 ZRH,YUL,2,"['15', '20']",772,Lufthansa,2024-12-20,2024-12-27
 ZRH,YUL,1,"['20', '40']",583,"SWISS, Air Canada",2024-12-21,2024-12-28
+ZRH,YUL,2,"['15', '25']",583,"SWISS, LufthansaAir CanadaOperated by Air Baltic Corporation/Swiss, Air Dolomiti/Lufthansa",2024-12-21,2024-12-28
 ZRH,YUL,2,"['17', '5']",596,"SWISS, Air Canada",2024-12-21,2024-12-28
-ZRH,YUL,2,"['17', '10']",596,"SWISS, Air CanadaOperated by Helvetic",2024-12-21,2024-12-28
 ZRH,YUL,1,"['20', '35']",670,"SWISS, Air CanadaOperated by Helvetic",2024-12-21,2024-12-28
+ZRH,YUL,2,"['35', '50']",685,"SWISS, LufthansaAir CanadaOperated by Helvetic Airways/Swiss, Air Dolomiti/Lufthansa",2024-12-21,2024-12-28
 ZRH,YUL,2,"['13', '5']",686,LufthansaAir Canada,2024-12-21,2024-12-28
 ZRH,YUL,2,"['15', '20']",772,Lufthansa,2024-12-21,2024-12-28
 ZRH,YUL,2,"['15', '20']",772,Lufthansa,2024-12-21,2024-12-28
 ZRH,YUL,2,"['15', '20']",772,Lufthansa,2024-12-21,2024-12-28
-ZRH,YUL,2,"['18', '35']",596,"Lufthansa, Air Canada",2024-12-21,2024-12-28
+ZRH,YUL,2,"['18', '35']",655,"Lufthansa, Air Canada",2024-12-21,2024-12-28
 ZRH,YUL,2,"['15', '10']",679,"SWISS, Air Canada",2024-12-21,2024-12-28
 ZRH,YUL,2,"['15', '25']",683,"SWISS, LufthansaAir CanadaOperated by Air Dolomiti/Lufthansa",2024-12-21,2024-12-28
+ZRH,YUL,1,"['23', '55']",688,"SWISS, Air CanadaOperated by Air Baltic",2024-12-21,2024-12-28
 ZRH,YUL,2,"['17', '20']",758,"SWISS, Lufthansa",2024-12-21,2024-12-28
 ZRH,YUL,2,"['17', '20']",758,"SWISS, Lufthansa",2024-12-21,2024-12-28
 ZRH,YUL,1,"['12', '55']",814,Air CanadaSWISS,2024-12-21,2024-12-28
 ZRH,YUL,1,"['12', '10']",835,"SWISS, Air Canada",2024-12-21,2024-12-28
 ZRH,YUL,1,"['10', '45']",907,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-12-21,2024-12-28
-ZRH,YUL,2,"['18', '35']",596,"Lufthansa, Air Canada",2024-12-22,2024-12-29
+ZRH,YUL,2,"['18', '35']",655,"Lufthansa, Air Canada",2024-12-22,2024-12-29
 ZRH,YUL,2,"['15', '10']",679,"SWISS, Air Canada",2024-12-22,2024-12-29
 ZRH,YUL,2,"['15', '25']",683,"SWISS, LufthansaAir CanadaOperated by Air Dolomiti/Lufthansa",2024-12-22,2024-12-29
+ZRH,YUL,1,"['23', '55']",688,"SWISS, Air CanadaOperated by Air Baltic",2024-12-22,2024-12-29
 ZRH,YUL,2,"['17', '20']",758,"SWISS, Lufthansa",2024-12-22,2024-12-29
 ZRH,YUL,2,"['17', '20']",758,"SWISS, Lufthansa",2024-12-22,2024-12-29
 ZRH,YUL,1,"['12', '55']",814,Air CanadaSWISS,2024-12-22,2024-12-29
@@ -1919,11 +1941,11 @@ ZRH,YUL,1,"['10', '45']",965,Air FranceDelta,2024-12-26,2025-01-02
 ZRH,YUL,1,"['28', '5']",683,LufthansaOperated by Lufthansa CityLine,2024-12-26,2025-01-02
 ZRH,YUL,1,"['11', '45']",965,Air FranceDelta,2024-12-26,2025-01-02
 ZRH,YUL,1,"['10', '45']",965,Air FranceDelta,2024-12-26,2025-01-02
-ZRH,YUL,1,"['14', '25']",1,Air Canada,2024-12-26,2025-01-02
+ZRH,YUL,1,"['14', '25']",1054,Air Canada,2024-12-26,2025-01-02
 ZRH,YUL,1,"['28', '5']",683,LufthansaOperated by Lufthansa CityLine,2024-12-27,2025-01-03
 ZRH,YUL,1,"['11', '45']",965,Air FranceDelta,2024-12-27,2025-01-03
 ZRH,YUL,1,"['10', '45']",965,Air FranceDelta,2024-12-27,2025-01-03
-ZRH,YUL,1,"['14', '25']",1,Air Canada,2024-12-27,2025-01-03
+ZRH,YUL,1,"['14', '25']",1054,Air Canada,2024-12-27,2025-01-03
 ZRH,YUL,1,"['14', '10']",901,KLMDelta,2024-12-27,2025-01-03
 ZRH,YUL,1,"['12', '40']",939,Tap Air Portugal,2024-12-27,2025-01-03
 ZRH,YUL,1,"['10', '45']",976,Air FranceDelta,2024-12-27,2025-01-03
@@ -1932,18 +1954,14 @@ ZRH,YUL,1,"['14', '10']",901,KLMDelta,2024-12-28,2025-01-04
 ZRH,YUL,1,"['12', '40']",939,Tap Air Portugal,2024-12-28,2025-01-04
 ZRH,YUL,1,"['10', '45']",976,Air FranceDelta,2024-12-28,2025-01-04
 ZRH,YUL,1,"['10', '20']",979,"SWISS, Air CanadaBrussels Airlines",2024-12-28,2025-01-04
-ZRH,YUL,2,"['16', '10']",708,"SWISS, Air CanadaOperated by Helvetic",2024-12-28,2025-01-04
 ZRH,YUL,2,"['13', '5']",724,LufthansaAir Canada,2024-12-28,2025-01-04
 ZRH,YUL,1,"['18', '20']",804,AmericanOperated by Piedmont Airlines as American Eagle,2024-12-28,2025-01-04
 ZRH,YUL,1,"['14', '55']",828,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-12-28,2025-01-04
-ZRH,YUL,1,"['10', '45']",1,"SWISS, Air CanadaBrussels Airlines",2024-12-28,2025-01-04
-ZRH,YUL,1,"['10', '45']",1,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-12-28,2025-01-04
-ZRH,YUL,2,"['16', '10']",708,"SWISS, Air CanadaOperated by Helvetic",2024-12-29,2025-01-05
+ZRH,YUL,1,"['10', '45']",1004,"SWISS, Air CanadaBrussels Airlines",2024-12-28,2025-01-04
 ZRH,YUL,2,"['13', '5']",724,LufthansaAir Canada,2024-12-29,2025-01-05
 ZRH,YUL,1,"['18', '20']",804,AmericanOperated by Piedmont Airlines as American Eagle,2024-12-29,2025-01-05
 ZRH,YUL,1,"['14', '55']",828,"LufthansaAir Canada, SWISSOperated by Lufthansa CityLine",2024-12-29,2025-01-05
-ZRH,YUL,1,"['10', '45']",1,"SWISS, Air CanadaBrussels Airlines",2024-12-29,2025-01-05
-ZRH,YUL,1,"['10', '45']",1,LufthansaAir CanadaOperated by Lufthansa CityLine,2024-12-29,2025-01-05
+ZRH,YUL,1,"['10', '45']",1004,"SWISS, Air CanadaBrussels Airlines",2024-12-29,2025-01-05
 ZRH,YUL,2,['17'],516,"SWISS, Austrian, LufthansaAir Canada",2024-12-29,2025-01-05
 ZRH,YUL,2,['13'],518,LufthansaAir Canada,2024-12-29,2025-01-05
 ZRH,YUL,1,"['14', '10']",569,"SWISS, Air Canada",2024-12-29,2025-01-05

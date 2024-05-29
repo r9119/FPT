@@ -148,7 +148,6 @@ ZRH,LHR,0,"['1', '55']",455,SWISS,2024-07-07,2024-07-14
 ZRH,LHR,0,"['1', '50']",503,British Airways,2024-07-07,2024-07-14
 ZRH,LHR,0,"['1', '45']",765,British Airways,2024-07-07,2024-07-14
 ZRH,LHR,0,"['1', '55']",968,British Airways,2024-07-07,2024-07-14
-ZRH,LHR,1,"['3', '25']",1,LufthansaOperated by Lufthansa CityLine,2024-07-07,2024-07-14
 ZRH,LHR,1,"['10', '40']",272,SWISS,2024-07-08,2024-07-15
 ZRH,LHR,1,"['12', '50']",325,Vueling,2024-07-08,2024-07-15
 ZRH,LHR,1,"['4', '15']",346,"SWISS, Lufthansa",2024-07-08,2024-07-15
@@ -161,7 +160,6 @@ ZRH,LHR,0,"['1', '55']",455,SWISS,2024-07-08,2024-07-15
 ZRH,LHR,0,"['1', '50']",503,British Airways,2024-07-08,2024-07-15
 ZRH,LHR,0,"['1', '45']",765,British Airways,2024-07-08,2024-07-15
 ZRH,LHR,0,"['1', '55']",968,British Airways,2024-07-08,2024-07-15
-ZRH,LHR,1,"['3', '25']",1,LufthansaOperated by Lufthansa CityLine,2024-07-08,2024-07-15
 ZRH,LHR,1,['4'],189,"SWISS, Lufthansa",2024-07-08,2024-07-15
 ZRH,LHR,0,"['1', '45']",209,SWISS,2024-07-08,2024-07-15
 ZRH,LHR,0,"['1', '50']",209,SWISS,2024-07-08,2024-07-15
@@ -173,7 +171,6 @@ ZRH,LHR,0,"['1', '55']",309,SWISS,2024-07-08,2024-07-15
 ZRH,LHR,0,"['1', '55']",319,British Airways,2024-07-08,2024-07-15
 ZRH,LHR,0,"['1', '55']",420,British Airways,2024-07-08,2024-07-15
 ZRH,LHR,0,"['1', '45']",434,British Airways,2024-07-08,2024-07-15
-ZRH,LHR,1,"['3', '25']",1,LufthansaOperated by Lufthansa CityLine,2024-07-08,2024-07-15
 ZRH,LHR,1,['4'],189,"SWISS, Lufthansa",2024-07-09,2024-07-16
 ZRH,LHR,0,"['1', '45']",209,SWISS,2024-07-09,2024-07-16
 ZRH,LHR,0,"['1', '50']",209,SWISS,2024-07-09,2024-07-16
@@ -185,7 +182,6 @@ ZRH,LHR,0,"['1', '55']",309,SWISS,2024-07-09,2024-07-16
 ZRH,LHR,0,"['1', '55']",319,British Airways,2024-07-09,2024-07-16
 ZRH,LHR,0,"['1', '55']",420,British Airways,2024-07-09,2024-07-16
 ZRH,LHR,0,"['1', '45']",434,British Airways,2024-07-09,2024-07-16
-ZRH,LHR,1,"['3', '25']",1,LufthansaOperated by Lufthansa CityLine,2024-07-09,2024-07-16
 ZRH,LHR,0,"['1', '50']",157,SWISS,2024-07-09,2024-07-16
 ZRH,LHR,1,['4'],171,Lufthansa,2024-07-09,2024-07-16
 ZRH,LHR,1,['4'],171,"SWISS, Lufthansa",2024-07-09,2024-07-16
@@ -340,7 +336,6 @@ ZRH,LHR,0,"['1', '50']",613,British Airways,2024-07-14,2024-07-21
 ZRH,LHR,0,"['1', '50']",653,British Airways,2024-07-14,2024-07-21
 ZRH,LHR,0,"['1', '55']",875,British Airways,2024-07-14,2024-07-21
 ZRH,LHR,0,"['1', '45']",875,British Airways,2024-07-14,2024-07-21
-ZRH,LHR,1,"['3', '25']",1,LufthansaOperated by Lufthansa CityLine,2024-07-14,2024-07-21
 ZRH,LHR,1,"['13', '15']",282,KLM,2024-07-15,2024-07-22
 ZRH,LHR,1,"['10', '40']",339,SWISS,2024-07-15,2024-07-22
 ZRH,LHR,1,"['10', '10']",358,SWISS,2024-07-15,2024-07-22
@@ -357,7 +352,6 @@ ZRH,LHR,0,"['1', '50']",613,British Airways,2024-07-15,2024-07-22
 ZRH,LHR,0,"['1', '50']",653,British Airways,2024-07-15,2024-07-22
 ZRH,LHR,0,"['1', '55']",875,British Airways,2024-07-15,2024-07-22
 ZRH,LHR,0,"['1', '45']",875,British Airways,2024-07-15,2024-07-22
-ZRH,LHR,1,"['3', '25']",1,LufthansaOperated by Lufthansa CityLine,2024-07-15,2024-07-22
 ZRH,LHR,1,"['4', '15']",214,"SWISS, Lufthansa",2024-07-15,2024-07-22
 ZRH,LHR,1,['4'],221,"SWISS, Lufthansa",2024-07-15,2024-07-22
 ZRH,LHR,1,"['7', '10']",267,SWISS,2024-07-15,2024-07-22
@@ -1781,7 +1775,6 @@ ZRH,FRA,1,"['3', '35']",389,Austrian,2024-07-07,2024-07-14
 ZRH,FRA,0,['1'],566,LufthansaSWISS,2024-07-07,2024-07-14
 ZRH,FRA,0,['1'],590,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-07,2024-07-14
 ZRH,FRA,0,['1'],873,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-07,2024-07-14
-ZRH,FRA,0,['1'],1,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-07,2024-07-14
 ZRH,FRA,0,"['1', '5']",260,SWISSLufthansa,2024-07-08,2024-07-15
 ZRH,FRA,1,"['3', '15']",285,SWISS,2024-07-08,2024-07-15
 ZRH,FRA,0,"['1', '5']",300,SWISSLufthansaOperated by Helvetic,2024-07-08,2024-07-15
@@ -1791,7 +1784,6 @@ ZRH,FRA,1,"['3', '35']",389,Austrian,2024-07-08,2024-07-15
 ZRH,FRA,0,['1'],566,LufthansaSWISS,2024-07-08,2024-07-15
 ZRH,FRA,0,['1'],590,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-08,2024-07-15
 ZRH,FRA,0,['1'],873,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-08,2024-07-15
-ZRH,FRA,0,['1'],1,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-08,2024-07-15
 ZRH,FRA,1,"['6', '10']",311,ITA,2024-07-08,2024-07-15
 ZRH,FRA,0,['1'],336,LufthansaSWISS,2024-07-08,2024-07-15
 ZRH,FRA,0,"['1', '5']",340,SWISSLufthansa,2024-07-08,2024-07-15
@@ -1853,7 +1845,6 @@ ZRH,FRA,1,"['3', '35']",389,Austrian,2024-07-12,2024-07-19
 ZRH,FRA,0,['1'],547,LufthansaSWISS,2024-07-12,2024-07-19
 ZRH,FRA,0,"['1', '5']",558,SWISSLufthansaOperated by Helvetic,2024-07-12,2024-07-19
 ZRH,FRA,0,['1'],760,LufthansaSWISS,2024-07-12,2024-07-19
-ZRH,FRA,0,['1'],1,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-12,2024-07-19
 ZRH,FRA,0,['1'],298,LufthansaSWISS,2024-07-13,2024-07-20
 ZRH,FRA,0,"['1', '5']",340,SWISSLufthansaOperated by Air Baltic,2024-07-13,2024-07-20
 ZRH,FRA,1,"['4', '35']",365,SWISS,2024-07-13,2024-07-20
@@ -1863,7 +1854,6 @@ ZRH,FRA,1,"['3', '35']",389,Austrian,2024-07-13,2024-07-20
 ZRH,FRA,0,['1'],547,LufthansaSWISS,2024-07-13,2024-07-20
 ZRH,FRA,0,"['1', '5']",558,SWISSLufthansaOperated by Helvetic,2024-07-13,2024-07-20
 ZRH,FRA,0,['1'],760,LufthansaSWISS,2024-07-13,2024-07-20
-ZRH,FRA,0,['1'],1,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-13,2024-07-20
 ZRH,FRA,1,"['6', '40']",296,Austrian,2024-07-13,2024-07-20
 ZRH,FRA,0,"['1', '5']",300,SWISSLufthansaOperated by Air Baltic,2024-07-13,2024-07-20
 ZRH,FRA,0,"['1', '5']",340,SWISSLufthansaOperated by Helvetic,2024-07-13,2024-07-20
@@ -1888,14 +1878,12 @@ ZRH,FRA,0,"['1', '5']",380,SWISSLufthansaOperated by Helvetic,2024-07-14,2024-07
 ZRH,FRA,0,['1'],380,LufthansaSWISS,2024-07-14,2024-07-21
 ZRH,FRA,0,['1'],690,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-14,2024-07-21
 ZRH,FRA,0,['1'],690,LufthansaSWISS,2024-07-14,2024-07-21
-ZRH,FRA,0,['1'],1,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-14,2024-07-21
 ZRH,FRA,1,"['4', '10']",355,KLMOperated by KLM Cityhopper,2024-07-15,2024-07-22
 ZRH,FRA,1,"['4', '40']",365,SWISS,2024-07-15,2024-07-22
 ZRH,FRA,0,"['1', '5']",380,SWISSLufthansaOperated by Helvetic,2024-07-15,2024-07-22
 ZRH,FRA,0,['1'],380,LufthansaSWISS,2024-07-15,2024-07-22
 ZRH,FRA,0,['1'],690,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-15,2024-07-22
 ZRH,FRA,0,['1'],690,LufthansaSWISS,2024-07-15,2024-07-22
-ZRH,FRA,0,['1'],1,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-15,2024-07-22
 ZRH,FRA,1,"['3', '15']",245,SWISS,2024-07-15,2024-07-22
 ZRH,FRA,1,"['4', '10']",292,"KLMOperated by KLM Cityhopper, KLM Cityhopper",2024-07-15,2024-07-22
 ZRH,FRA,0,"['1', '5']",300,SWISSLufthansaOperated by Air Baltic,2024-07-15,2024-07-22
@@ -2870,8 +2858,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-01,2024-07-08
 ZRH,GVA,0,['50'],224,SWISS,2024-07-01,2024-07-08
 ZRH,GVA,1,"['11', '40']",529,British Airways,2024-07-01,2024-07-08
 ZRH,GVA,1,"['5', '55']",603,Iberia,2024-07-01,2024-07-08
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-01,2024-07-08
-ZRH,GVA,1,"['3', '15']",5,"SWISS, Brussels AirlinesOperated by Helvetic",2024-07-01,2024-07-08
 ZRH,GVA,0,['50'],159,SWISS,2024-07-02,2024-07-09
 ZRH,GVA,0,['1'],159,SWISS,2024-07-02,2024-07-09
 ZRH,GVA,0,['50'],159,SWISS,2024-07-02,2024-07-09
@@ -2879,22 +2865,18 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-02,2024-07-09
 ZRH,GVA,0,['50'],224,SWISS,2024-07-02,2024-07-09
 ZRH,GVA,1,"['11', '40']",529,British Airways,2024-07-02,2024-07-09
 ZRH,GVA,1,"['5', '55']",603,Iberia,2024-07-02,2024-07-09
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-02,2024-07-09
-ZRH,GVA,1,"['3', '15']",5,"SWISS, Brussels AirlinesOperated by Helvetic",2024-07-02,2024-07-09
 ZRH,GVA,0,['50'],159,SWISS,2024-07-02,2024-07-09
 ZRH,GVA,0,['1'],159,SWISS,2024-07-02,2024-07-09
 ZRH,GVA,0,['50'],159,SWISS,2024-07-02,2024-07-09
 ZRH,GVA,0,['50'],159,SWISS,2024-07-02,2024-07-09
 ZRH,GVA,1,"['15', '25']",425,British Airways,2024-07-02,2024-07-09
 ZRH,GVA,1,"['6', '15']",539,IberiaOperated by Air Nostrum for Iberia,2024-07-02,2024-07-09
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-02,2024-07-09
 ZRH,GVA,0,['50'],159,SWISS,2024-07-03,2024-07-10
 ZRH,GVA,0,['1'],159,SWISS,2024-07-03,2024-07-10
 ZRH,GVA,0,['50'],159,SWISS,2024-07-03,2024-07-10
 ZRH,GVA,0,['50'],159,SWISS,2024-07-03,2024-07-10
 ZRH,GVA,1,"['15', '25']",425,British Airways,2024-07-03,2024-07-10
 ZRH,GVA,1,"['6', '15']",539,IberiaOperated by Air Nostrum for Iberia,2024-07-03,2024-07-10
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-03,2024-07-10
 ZRH,GVA,0,['50'],159,SWISS,2024-07-03,2024-07-10
 ZRH,GVA,0,['1'],159,SWISS,2024-07-03,2024-07-10
 ZRH,GVA,0,['50'],159,SWISS,2024-07-03,2024-07-10
@@ -2902,7 +2884,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-03,2024-07-10
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-03,2024-07-10
 ZRH,GVA,1,"['7', '40']",442,British Airways,2024-07-03,2024-07-10
 ZRH,GVA,1,"['7', '45']",482,VuelingIberia,2024-07-03,2024-07-10
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-03,2024-07-10
 ZRH,GVA,0,['50'],159,SWISS,2024-07-04,2024-07-11
 ZRH,GVA,0,['1'],159,SWISS,2024-07-04,2024-07-11
 ZRH,GVA,0,['50'],159,SWISS,2024-07-04,2024-07-11
@@ -2910,21 +2891,18 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-04,2024-07-11
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-04,2024-07-11
 ZRH,GVA,1,"['7', '40']",442,British Airways,2024-07-04,2024-07-11
 ZRH,GVA,1,"['7', '45']",482,VuelingIberia,2024-07-04,2024-07-11
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-04,2024-07-11
 ZRH,GVA,0,['50'],224,SWISS,2024-07-04,2024-07-11
 ZRH,GVA,0,['1'],224,SWISS,2024-07-04,2024-07-11
 ZRH,GVA,0,['50'],224,SWISS,2024-07-04,2024-07-11
 ZRH,GVA,0,['50'],224,SWISS,2024-07-04,2024-07-11
 ZRH,GVA,1,"['6', '45']",526,British Airways,2024-07-04,2024-07-11
 ZRH,GVA,1,"['7', '35']",528,Iberia,2024-07-04,2024-07-11
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-04,2024-07-11
 ZRH,GVA,0,['50'],224,SWISS,2024-07-05,2024-07-12
 ZRH,GVA,0,['1'],224,SWISS,2024-07-05,2024-07-12
 ZRH,GVA,0,['50'],224,SWISS,2024-07-05,2024-07-12
 ZRH,GVA,0,['50'],224,SWISS,2024-07-05,2024-07-12
 ZRH,GVA,1,"['6', '45']",526,British Airways,2024-07-05,2024-07-12
 ZRH,GVA,1,"['7', '35']",528,Iberia,2024-07-05,2024-07-12
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-05,2024-07-12
 ZRH,GVA,0,['1'],159,SWISS,2024-07-05,2024-07-12
 ZRH,GVA,0,['50'],159,SWISS,2024-07-05,2024-07-12
 ZRH,GVA,0,['50'],159,SWISS,2024-07-05,2024-07-12
@@ -2932,8 +2910,6 @@ ZRH,GVA,0,['55'],224,SWISS,2024-07-05,2024-07-12
 ZRH,GVA,1,"['3', '20']",290,"SWISS, Brussels Airlines",2024-07-05,2024-07-12
 ZRH,GVA,1,['12'],531,AustrianSWISS,2024-07-05,2024-07-12
 ZRH,GVA,1,"['5', '55']",724,Iberia,2024-07-05,2024-07-12
-ZRH,GVA,1,"['3', '55']",1,"Lufthansa, Air Dolomiti",2024-07-05,2024-07-12
-ZRH,GVA,1,"['3', '25']",3,Air France,2024-07-05,2024-07-12
 ZRH,GVA,0,['1'],159,SWISS,2024-07-06,2024-07-13
 ZRH,GVA,0,['50'],159,SWISS,2024-07-06,2024-07-13
 ZRH,GVA,0,['50'],159,SWISS,2024-07-06,2024-07-13
@@ -2941,8 +2917,6 @@ ZRH,GVA,0,['55'],224,SWISS,2024-07-06,2024-07-13
 ZRH,GVA,1,"['3', '20']",290,"SWISS, Brussels Airlines",2024-07-06,2024-07-13
 ZRH,GVA,1,['12'],531,AustrianSWISS,2024-07-06,2024-07-13
 ZRH,GVA,1,"['5', '55']",724,Iberia,2024-07-06,2024-07-13
-ZRH,GVA,1,"['3', '55']",1,"Lufthansa, Air Dolomiti",2024-07-06,2024-07-13
-ZRH,GVA,1,"['3', '25']",3,Air France,2024-07-06,2024-07-13
 ZRH,GVA,0,"['1', '5']",159,SWISSOperated by Air Baltic,2024-07-06,2024-07-13
 ZRH,GVA,0,['50'],159,SWISS,2024-07-06,2024-07-13
 ZRH,GVA,0,['50'],159,SWISS,2024-07-06,2024-07-13
@@ -2951,7 +2925,6 @@ ZRH,GVA,0,['55'],224,SWISS,2024-07-06,2024-07-13
 ZRH,GVA,1,"['13', '25']",571,"SWISS, LufthansaOperated by Cityjet",2024-07-06,2024-07-13
 ZRH,GVA,1,"['3', '45']",764,"SWISS, Air DolomitiLufthansa",2024-07-06,2024-07-13
 ZRH,GVA,1,"['7', '25']",914,Tunisair,2024-07-06,2024-07-13
-ZRH,GVA,1,"['3', '25']",3,Air France,2024-07-06,2024-07-13
 ZRH,GVA,0,"['1', '5']",159,SWISSOperated by Air Baltic,2024-07-07,2024-07-14
 ZRH,GVA,0,['50'],159,SWISS,2024-07-07,2024-07-14
 ZRH,GVA,0,['50'],159,SWISS,2024-07-07,2024-07-14
@@ -2960,33 +2933,26 @@ ZRH,GVA,0,['55'],224,SWISS,2024-07-07,2024-07-14
 ZRH,GVA,1,"['13', '25']",571,"SWISS, LufthansaOperated by Cityjet",2024-07-07,2024-07-14
 ZRH,GVA,1,"['3', '45']",764,"SWISS, Air DolomitiLufthansa",2024-07-07,2024-07-14
 ZRH,GVA,1,"['7', '25']",914,Tunisair,2024-07-07,2024-07-14
-ZRH,GVA,1,"['3', '25']",3,Air France,2024-07-07,2024-07-14
 ZRH,GVA,0,['55'],249,SWISS,2024-07-07,2024-07-14
 ZRH,GVA,0,['50'],387,SWISS,2024-07-07,2024-07-14
 ZRH,GVA,1,['12'],618,AustrianSWISS,2024-07-07,2024-07-14
 ZRH,GVA,1,"['8', '25']",699,VuelingIberia,2024-07-07,2024-07-14
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-07,2024-07-14
-ZRH,GVA,1,"['4', '15']",3,"KLMOperated by KLM Cityhopper, KLM Cityhopper",2024-07-07,2024-07-14
 ZRH,GVA,0,['55'],249,SWISS,2024-07-08,2024-07-15
 ZRH,GVA,0,['50'],387,SWISS,2024-07-08,2024-07-15
 ZRH,GVA,1,['12'],618,AustrianSWISS,2024-07-08,2024-07-15
 ZRH,GVA,1,"['8', '25']",699,VuelingIberia,2024-07-08,2024-07-15
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-08,2024-07-15
-ZRH,GVA,1,"['4', '15']",3,"KLMOperated by KLM Cityhopper, KLM Cityhopper",2024-07-08,2024-07-15
 ZRH,GVA,0,['50'],159,SWISS,2024-07-08,2024-07-15
 ZRH,GVA,0,['1'],159,SWISS,2024-07-08,2024-07-15
 ZRH,GVA,0,['50'],159,SWISS,2024-07-08,2024-07-15
 ZRH,GVA,0,['50'],159,SWISS,2024-07-08,2024-07-15
 ZRH,GVA,1,"['8', '10']",609,Iberia,2024-07-08,2024-07-15
 ZRH,GVA,1,['12'],618,AustrianSWISS,2024-07-08,2024-07-15
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-08,2024-07-15
 ZRH,GVA,0,['50'],159,SWISS,2024-07-09,2024-07-16
 ZRH,GVA,0,['1'],159,SWISS,2024-07-09,2024-07-16
 ZRH,GVA,0,['50'],159,SWISS,2024-07-09,2024-07-16
 ZRH,GVA,0,['50'],159,SWISS,2024-07-09,2024-07-16
 ZRH,GVA,1,"['8', '10']",609,Iberia,2024-07-09,2024-07-16
 ZRH,GVA,1,['12'],618,AustrianSWISS,2024-07-09,2024-07-16
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-09,2024-07-16
 ZRH,GVA,0,['50'],159,SWISS,2024-07-09,2024-07-16
 ZRH,GVA,0,['1'],159,SWISS,2024-07-09,2024-07-16
 ZRH,GVA,0,['50'],159,SWISS,2024-07-09,2024-07-16
@@ -2994,7 +2960,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-09,2024-07-16
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-09,2024-07-16
 ZRH,GVA,1,"['9', '20']",466,British Airways,2024-07-09,2024-07-16
 ZRH,GVA,1,"['6', '15']",472,IberiaOperated by Air Nostrum for Iberia,2024-07-09,2024-07-16
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-09,2024-07-16
 ZRH,GVA,0,['50'],159,SWISS,2024-07-10,2024-07-17
 ZRH,GVA,0,['1'],159,SWISS,2024-07-10,2024-07-17
 ZRH,GVA,0,['50'],159,SWISS,2024-07-10,2024-07-17
@@ -3002,7 +2967,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-10,2024-07-17
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-10,2024-07-17
 ZRH,GVA,1,"['9', '20']",466,British Airways,2024-07-10,2024-07-17
 ZRH,GVA,1,"['6', '15']",472,IberiaOperated by Air Nostrum for Iberia,2024-07-10,2024-07-17
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-10,2024-07-17
 ZRH,GVA,0,['50'],159,SWISS,2024-07-10,2024-07-17
 ZRH,GVA,0,['1'],159,SWISS,2024-07-10,2024-07-17
 ZRH,GVA,0,['50'],159,SWISS,2024-07-10,2024-07-17
@@ -3010,7 +2974,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-10,2024-07-17
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-10,2024-07-17
 ZRH,GVA,1,"['7', '45']",465,VuelingIberia,2024-07-10,2024-07-17
 ZRH,GVA,1,"['7', '40']",539,British Airways,2024-07-10,2024-07-17
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-10,2024-07-17
 ZRH,GVA,0,['50'],159,SWISS,2024-07-11,2024-07-18
 ZRH,GVA,0,['1'],159,SWISS,2024-07-11,2024-07-18
 ZRH,GVA,0,['50'],159,SWISS,2024-07-11,2024-07-18
@@ -3018,19 +2981,16 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-11,2024-07-18
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-11,2024-07-18
 ZRH,GVA,1,"['7', '45']",465,VuelingIberia,2024-07-11,2024-07-18
 ZRH,GVA,1,"['7', '40']",539,British Airways,2024-07-11,2024-07-18
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-11,2024-07-18
 ZRH,GVA,1,"['3', '15']",202,"SWISS, Brussels Airlines",2024-07-11,2024-07-18
 ZRH,GVA,0,['1'],224,SWISS,2024-07-11,2024-07-18
 ZRH,GVA,0,['55'],224,SWISS,2024-07-11,2024-07-18
 ZRH,GVA,1,"['7', '35']",593,Iberia,2024-07-11,2024-07-18
 ZRH,GVA,1,['12'],618,AustrianSWISS,2024-07-11,2024-07-18
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-11,2024-07-18
 ZRH,GVA,1,"['3', '15']",202,"SWISS, Brussels Airlines",2024-07-12,2024-07-19
 ZRH,GVA,0,['1'],224,SWISS,2024-07-12,2024-07-19
 ZRH,GVA,0,['55'],224,SWISS,2024-07-12,2024-07-19
 ZRH,GVA,1,"['7', '35']",593,Iberia,2024-07-12,2024-07-19
 ZRH,GVA,1,['12'],618,AustrianSWISS,2024-07-12,2024-07-19
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-12,2024-07-19
 ZRH,GVA,0,['1'],159,SWISS,2024-07-12,2024-07-19
 ZRH,GVA,0,['50'],159,SWISS,2024-07-12,2024-07-19
 ZRH,GVA,0,['50'],159,SWISS,2024-07-12,2024-07-19
@@ -3038,7 +2998,6 @@ ZRH,GVA,0,['55'],224,SWISS,2024-07-12,2024-07-19
 ZRH,GVA,1,"['3', '20']",259,"SWISS, Brussels Airlines",2024-07-12,2024-07-19
 ZRH,GVA,1,['12'],586,AustrianSWISS,2024-07-12,2024-07-19
 ZRH,GVA,1,"['8', '10']",758,Iberia,2024-07-12,2024-07-19
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-12,2024-07-19
 ZRH,GVA,0,['1'],159,SWISS,2024-07-13,2024-07-20
 ZRH,GVA,0,['50'],159,SWISS,2024-07-13,2024-07-20
 ZRH,GVA,0,['50'],159,SWISS,2024-07-13,2024-07-20
@@ -3046,33 +3005,26 @@ ZRH,GVA,0,['55'],224,SWISS,2024-07-13,2024-07-20
 ZRH,GVA,1,"['3', '20']",259,"SWISS, Brussels Airlines",2024-07-13,2024-07-20
 ZRH,GVA,1,['12'],586,AustrianSWISS,2024-07-13,2024-07-20
 ZRH,GVA,1,"['8', '10']",758,Iberia,2024-07-13,2024-07-20
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-13,2024-07-20
 ZRH,GVA,0,['50'],224,SWISS,2024-07-13,2024-07-20
 ZRH,GVA,0,['55'],346,SWISS,2024-07-13,2024-07-20
 ZRH,GVA,1,"['3', '45']",764,"SWISS, Air DolomitiLufthansa",2024-07-13,2024-07-20
 ZRH,GVA,1,"['12', '35']",836,"LufthansaOperated by Lufthansa CityLine, Cityjet",2024-07-13,2024-07-20
 ZRH,GVA,1,"['3', '55']",945,LufthansaOperated by Lufthansa CityLine,2024-07-13,2024-07-20
-ZRH,GVA,1,"['3', '25']",3,Air France,2024-07-13,2024-07-20
 ZRH,GVA,0,['50'],224,SWISS,2024-07-14,2024-07-21
 ZRH,GVA,0,['55'],346,SWISS,2024-07-14,2024-07-21
 ZRH,GVA,1,"['3', '45']",764,"SWISS, Air DolomitiLufthansa",2024-07-14,2024-07-21
 ZRH,GVA,1,"['12', '35']",836,"LufthansaOperated by Lufthansa CityLine, Cityjet",2024-07-14,2024-07-21
 ZRH,GVA,1,"['3', '55']",945,LufthansaOperated by Lufthansa CityLine,2024-07-14,2024-07-21
-ZRH,GVA,1,"['3', '25']",3,Air France,2024-07-14,2024-07-21
 ZRH,GVA,0,['55'],224,SWISS,2024-07-14,2024-07-21
 ZRH,GVA,0,['50'],224,SWISS,2024-07-14,2024-07-21
 ZRH,GVA,0,['50'],249,SWISS,2024-07-14,2024-07-21
 ZRH,GVA,1,"['12', '20']",529,EurowingsSWISS,2024-07-14,2024-07-21
 ZRH,GVA,1,"['5', '55']",845,Iberia,2024-07-14,2024-07-21
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-14,2024-07-21
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-14,2024-07-21
 ZRH,GVA,0,['55'],224,SWISS,2024-07-15,2024-07-22
 ZRH,GVA,0,['50'],224,SWISS,2024-07-15,2024-07-22
 ZRH,GVA,0,['50'],249,SWISS,2024-07-15,2024-07-22
 ZRH,GVA,1,"['12', '20']",529,EurowingsSWISS,2024-07-15,2024-07-22
 ZRH,GVA,1,"['5', '55']",845,Iberia,2024-07-15,2024-07-22
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-15,2024-07-22
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-15,2024-07-22
 ZRH,GVA,0,['50'],159,SWISS,2024-07-15,2024-07-22
 ZRH,GVA,0,['50'],159,SWISS,2024-07-15,2024-07-22
 ZRH,GVA,0,['50'],159,SWISS,2024-07-15,2024-07-22
@@ -3081,7 +3033,6 @@ ZRH,GVA,0,['1'],224,SWISS,2024-07-15,2024-07-22
 ZRH,GVA,1,"['3', '15']",259,"SWISS, Brussels AirlinesOperated by Helvetic",2024-07-15,2024-07-22
 ZRH,GVA,1,"['5', '55']",675,Iberia,2024-07-15,2024-07-22
 ZRH,GVA,1,"['9', '20']",694,British Airways,2024-07-15,2024-07-22
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-15,2024-07-22
 ZRH,GVA,0,['50'],159,SWISS,2024-07-16,2024-07-23
 ZRH,GVA,0,['50'],159,SWISS,2024-07-16,2024-07-23
 ZRH,GVA,0,['50'],159,SWISS,2024-07-16,2024-07-23
@@ -3090,7 +3041,6 @@ ZRH,GVA,0,['1'],224,SWISS,2024-07-16,2024-07-23
 ZRH,GVA,1,"['3', '15']",259,"SWISS, Brussels AirlinesOperated by Helvetic",2024-07-16,2024-07-23
 ZRH,GVA,1,"['5', '55']",675,Iberia,2024-07-16,2024-07-23
 ZRH,GVA,1,"['9', '20']",694,British Airways,2024-07-16,2024-07-23
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-16,2024-07-23
 ZRH,GVA,0,['50'],159,SWISS,2024-07-16,2024-07-23
 ZRH,GVA,0,['1'],159,SWISS,2024-07-16,2024-07-23
 ZRH,GVA,0,['50'],159,SWISS,2024-07-16,2024-07-23
@@ -3098,7 +3048,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-16,2024-07-23
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-16,2024-07-23
 ZRH,GVA,1,"['5', '55']",442,Iberia,2024-07-16,2024-07-23
 ZRH,GVA,1,"['9', '20']",507,British Airways,2024-07-16,2024-07-23
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-16,2024-07-23
 ZRH,GVA,0,['50'],159,SWISS,2024-07-17,2024-07-24
 ZRH,GVA,0,['1'],159,SWISS,2024-07-17,2024-07-24
 ZRH,GVA,0,['50'],159,SWISS,2024-07-17,2024-07-24
@@ -3106,7 +3055,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-17,2024-07-24
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-17,2024-07-24
 ZRH,GVA,1,"['5', '55']",442,Iberia,2024-07-17,2024-07-24
 ZRH,GVA,1,"['9', '20']",507,British Airways,2024-07-17,2024-07-24
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-17,2024-07-24
 ZRH,GVA,0,['50'],159,SWISS,2024-07-17,2024-07-24
 ZRH,GVA,0,['1'],159,SWISS,2024-07-17,2024-07-24
 ZRH,GVA,0,['50'],159,SWISS,2024-07-17,2024-07-24
@@ -3114,7 +3062,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-17,2024-07-24
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-17,2024-07-24
 ZRH,GVA,1,"['6', '15']",503,IberiaOperated by Air Nostrum for Iberia,2024-07-17,2024-07-24
 ZRH,GVA,1,"['7', '40']",523,British Airways,2024-07-17,2024-07-24
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-17,2024-07-24
 ZRH,GVA,0,['50'],159,SWISS,2024-07-18,2024-07-25
 ZRH,GVA,0,['1'],159,SWISS,2024-07-18,2024-07-25
 ZRH,GVA,0,['50'],159,SWISS,2024-07-18,2024-07-25
@@ -3122,113 +3069,90 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-18,2024-07-25
 ZRH,GVA,1,"['3', '15']",180,"SWISS, Brussels Airlines",2024-07-18,2024-07-25
 ZRH,GVA,1,"['6', '15']",503,IberiaOperated by Air Nostrum for Iberia,2024-07-18,2024-07-25
 ZRH,GVA,1,"['7', '40']",523,British Airways,2024-07-18,2024-07-25
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-18,2024-07-25
 ZRH,GVA,0,['1'],224,SWISS,2024-07-18,2024-07-25
 ZRH,GVA,0,['55'],224,SWISS,2024-07-18,2024-07-25
 ZRH,GVA,1,"['4', '40']",593,British Airways,2024-07-18,2024-07-25
 ZRH,GVA,1,"['6', '15']",595,IberiaOperated by Air Nostrum for Iberia,2024-07-18,2024-07-25
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-18,2024-07-25
 ZRH,GVA,0,['1'],224,SWISS,2024-07-19,2024-07-26
 ZRH,GVA,0,['55'],224,SWISS,2024-07-19,2024-07-26
 ZRH,GVA,1,"['4', '40']",593,British Airways,2024-07-19,2024-07-26
 ZRH,GVA,1,"['6', '15']",595,IberiaOperated by Air Nostrum for Iberia,2024-07-19,2024-07-26
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-19,2024-07-26
 ZRH,GVA,0,['50'],224,SWISS,2024-07-19,2024-07-26
 ZRH,GVA,0,['55'],224,SWISS,2024-07-19,2024-07-26
 ZRH,GVA,1,"['3', '20']",290,"SWISS, Brussels Airlines",2024-07-19,2024-07-26
 ZRH,GVA,1,"['6', '15']",730,IberiaOperated by Air Nostrum for Iberia,2024-07-19,2024-07-26
 ZRH,GVA,1,"['8', '55']",781,British Airways,2024-07-19,2024-07-26
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-19,2024-07-26
-ZRH,GVA,1,"['4', '15']",3,"KLMOperated by KLM Cityhopper, KLM Cityhopper",2024-07-19,2024-07-26
 ZRH,GVA,0,['50'],224,SWISS,2024-07-20,2024-07-27
 ZRH,GVA,0,['55'],224,SWISS,2024-07-20,2024-07-27
 ZRH,GVA,1,"['3', '20']",290,"SWISS, Brussels Airlines",2024-07-20,2024-07-27
 ZRH,GVA,1,"['6', '15']",730,IberiaOperated by Air Nostrum for Iberia,2024-07-20,2024-07-27
 ZRH,GVA,1,"['8', '55']",781,British Airways,2024-07-20,2024-07-27
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-20,2024-07-27
-ZRH,GVA,1,"['4', '15']",3,"KLMOperated by KLM Cityhopper, KLM Cityhopper",2024-07-20,2024-07-27
 ZRH,GVA,0,['50'],224,SWISS,2024-07-20,2024-07-27
 ZRH,GVA,0,['50'],224,SWISS,2024-07-20,2024-07-27
 ZRH,GVA,0,['55'],249,SWISS,2024-07-20,2024-07-27
 ZRH,GVA,1,"['3', '45']",764,"SWISS, Air DolomitiLufthansa",2024-07-20,2024-07-27
 ZRH,GVA,1,"['4', '25']",828,"SWISS, Air DolomitiLufthansaOperated by Helvetic Airways for Swiss International Air Lines",2024-07-20,2024-07-27
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-20,2024-07-27
 ZRH,GVA,0,['50'],224,SWISS,2024-07-21,2024-07-28
 ZRH,GVA,0,['50'],224,SWISS,2024-07-21,2024-07-28
 ZRH,GVA,0,['55'],249,SWISS,2024-07-21,2024-07-28
 ZRH,GVA,1,"['3', '45']",764,"SWISS, Air DolomitiLufthansa",2024-07-21,2024-07-28
 ZRH,GVA,1,"['4', '25']",828,"SWISS, Air DolomitiLufthansaOperated by Helvetic Airways for Swiss International Air Lines",2024-07-21,2024-07-28
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-21,2024-07-28
 ZRH,GVA,0,['55'],224,SWISS,2024-07-21,2024-07-28
 ZRH,GVA,0,['50'],224,SWISS,2024-07-21,2024-07-28
 ZRH,GVA,1,"['4', '5']",292,"Lufthansa, SWISS",2024-07-21,2024-07-28
 ZRH,GVA,0,['50'],387,SWISS,2024-07-21,2024-07-28
 ZRH,GVA,1,"['18', '15']",889,"Scandinavian AirlinesOperated by Cityjet, Sas Link",2024-07-21,2024-07-28
 ZRH,GVA,1,"['9', '20']",903,British Airways,2024-07-21,2024-07-28
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-21,2024-07-28
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-21,2024-07-28
 ZRH,GVA,0,['55'],224,SWISS,2024-07-22,2024-07-29
 ZRH,GVA,0,['50'],224,SWISS,2024-07-22,2024-07-29
 ZRH,GVA,1,"['4', '5']",292,"Lufthansa, SWISS",2024-07-22,2024-07-29
 ZRH,GVA,0,['50'],387,SWISS,2024-07-22,2024-07-29
 ZRH,GVA,1,"['18', '15']",889,"Scandinavian AirlinesOperated by Cityjet, Sas Link",2024-07-22,2024-07-29
 ZRH,GVA,1,"['9', '20']",903,British Airways,2024-07-22,2024-07-29
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-22,2024-07-29
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-22,2024-07-29
 ZRH,GVA,0,['50'],159,SWISS,2024-07-22,2024-07-29
 ZRH,GVA,0,['1'],159,SWISS,2024-07-22,2024-07-29
 ZRH,GVA,0,['50'],159,SWISS,2024-07-22,2024-07-29
 ZRH,GVA,0,['50'],159,SWISS,2024-07-22,2024-07-29
 ZRH,GVA,1,"['12', '35']",582,Aer Lingus,2024-07-22,2024-07-29
 ZRH,GVA,1,"['5', '55']",746,Iberia,2024-07-22,2024-07-29
-ZRH,GVA,1,"['3', '30']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-22,2024-07-29
-ZRH,GVA,1,"['3', '15']",5,"SWISS, Brussels AirlinesOperated by Helvetic",2024-07-22,2024-07-29
 ZRH,GVA,0,['50'],159,SWISS,2024-07-23,2024-07-30
 ZRH,GVA,0,['1'],159,SWISS,2024-07-23,2024-07-30
 ZRH,GVA,0,['50'],159,SWISS,2024-07-23,2024-07-30
 ZRH,GVA,0,['50'],159,SWISS,2024-07-23,2024-07-30
 ZRH,GVA,1,"['12', '35']",582,Aer Lingus,2024-07-23,2024-07-30
 ZRH,GVA,1,"['5', '55']",746,Iberia,2024-07-23,2024-07-30
-ZRH,GVA,1,"['3', '30']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-23,2024-07-30
-ZRH,GVA,1,"['3', '15']",5,"SWISS, Brussels AirlinesOperated by Helvetic",2024-07-23,2024-07-30
 ZRH,GVA,0,['50'],159,SWISS,2024-07-23,2024-07-30
 ZRH,GVA,0,['1'],159,SWISS,2024-07-23,2024-07-30
 ZRH,GVA,0,['50'],159,SWISS,2024-07-23,2024-07-30
 ZRH,GVA,0,['50'],159,SWISS,2024-07-23,2024-07-30
 ZRH,GVA,1,"['7', '40']",511,British Airways,2024-07-23,2024-07-30
 ZRH,GVA,1,"['5', '55']",593,Iberia,2024-07-23,2024-07-30
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-23,2024-07-30
 ZRH,GVA,0,['50'],159,SWISS,2024-07-24,2024-07-31
 ZRH,GVA,0,['1'],159,SWISS,2024-07-24,2024-07-31
 ZRH,GVA,0,['50'],159,SWISS,2024-07-24,2024-07-31
 ZRH,GVA,0,['50'],159,SWISS,2024-07-24,2024-07-31
 ZRH,GVA,1,"['7', '40']",511,British Airways,2024-07-24,2024-07-31
 ZRH,GVA,1,"['5', '55']",593,Iberia,2024-07-24,2024-07-31
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-24,2024-07-31
 ZRH,GVA,0,['50'],159,SWISS,2024-07-24,2024-07-31
 ZRH,GVA,0,['1'],159,SWISS,2024-07-24,2024-07-31
 ZRH,GVA,0,['50'],159,SWISS,2024-07-24,2024-07-31
 ZRH,GVA,0,['50'],159,SWISS,2024-07-24,2024-07-31
 ZRH,GVA,1,"['5', '55']",529,Iberia,2024-07-24,2024-07-31
 ZRH,GVA,1,"['7', '40']",567,British Airways,2024-07-24,2024-07-31
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-24,2024-07-31
 ZRH,GVA,0,['50'],159,SWISS,2024-07-25,2024-08-01
 ZRH,GVA,0,['1'],159,SWISS,2024-07-25,2024-08-01
 ZRH,GVA,0,['50'],159,SWISS,2024-07-25,2024-08-01
 ZRH,GVA,0,['50'],159,SWISS,2024-07-25,2024-08-01
 ZRH,GVA,1,"['5', '55']",529,Iberia,2024-07-25,2024-08-01
 ZRH,GVA,1,"['7', '40']",567,British Airways,2024-07-25,2024-08-01
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-25,2024-08-01
 ZRH,GVA,0,['1'],224,SWISS,2024-07-25,2024-08-01
 ZRH,GVA,0,['55'],224,SWISS,2024-07-25,2024-08-01
 ZRH,GVA,1,"['6', '45']",614,British Airways,2024-07-25,2024-08-01
 ZRH,GVA,1,"['14', '50']",642,Iberia,2024-07-25,2024-08-01
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-25,2024-08-01
 ZRH,GVA,0,['1'],224,SWISS,2024-07-26,2024-08-02
 ZRH,GVA,0,['55'],224,SWISS,2024-07-26,2024-08-02
 ZRH,GVA,1,"['6', '45']",614,British Airways,2024-07-26,2024-08-02
 ZRH,GVA,1,"['14', '50']",642,Iberia,2024-07-26,2024-08-02
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-26,2024-08-02
 ZRH,GVA,0,['50'],159,SWISS,2024-07-26,2024-08-02
 ZRH,GVA,0,['1'],159,SWISS,2024-07-26,2024-08-02
 ZRH,GVA,0,['50'],159,SWISS,2024-07-26,2024-08-02
@@ -3248,25 +3172,21 @@ ZRH,GVA,0,['50'],199,SWISS,2024-07-27,2024-08-03
 ZRH,GVA,1,"['3', '55']",313,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-27,2024-08-03
 ZRH,GVA,1,"['16', '15']",763,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-27,2024-08-03
 ZRH,GVA,1,"['3', '10']",846,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-27,2024-08-03
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-27,2024-08-03
 ZRH,GVA,0,['55'],199,SWISS,2024-07-28,2024-08-04
 ZRH,GVA,0,['50'],199,SWISS,2024-07-28,2024-08-04
 ZRH,GVA,1,"['3', '55']",313,LufthansaSWISSOperated by Lufthansa CityLine,2024-07-28,2024-08-04
 ZRH,GVA,1,"['16', '15']",763,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-28,2024-08-04
 ZRH,GVA,1,"['3', '10']",846,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-28,2024-08-04
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-28,2024-08-04
 ZRH,GVA,0,['1'],159,SWISS,2024-07-28,2024-08-04
 ZRH,GVA,0,['50'],159,SWISS,2024-07-28,2024-08-04
 ZRH,GVA,0,['55'],174,SWISS,2024-07-28,2024-08-04
 ZRH,GVA,0,['50'],224,SWISS,2024-07-28,2024-08-04
 ZRH,GVA,1,"['13', '30']",800,British AirwaysOperated by BA Cityflyer,2024-07-28,2024-08-04
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-28,2024-08-04
 ZRH,GVA,0,['1'],159,SWISS,2024-07-29,2024-08-05
 ZRH,GVA,0,['50'],159,SWISS,2024-07-29,2024-08-05
 ZRH,GVA,0,['55'],174,SWISS,2024-07-29,2024-08-05
 ZRH,GVA,0,['50'],224,SWISS,2024-07-29,2024-08-05
 ZRH,GVA,1,"['13', '30']",800,British AirwaysOperated by BA Cityflyer,2024-07-29,2024-08-05
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-29,2024-08-05
 ZRH,GVA,0,['50'],159,SWISS,2024-07-29,2024-08-05
 ZRH,GVA,0,['1'],159,SWISS,2024-07-29,2024-08-05
 ZRH,GVA,0,['50'],159,SWISS,2024-07-29,2024-08-05
@@ -3274,7 +3194,6 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-29,2024-08-05
 ZRH,GVA,1,"['3', '15']",336,"SWISS, Brussels AirlinesOperated by Helvetic",2024-07-29,2024-08-05
 ZRH,GVA,1,"['13', '35']",563,IberiaOperated by Air Nostrum for Iberia,2024-07-29,2024-08-05
 ZRH,GVA,1,"['9', '20']",589,British Airways,2024-07-29,2024-08-05
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-29,2024-08-05
 ZRH,GVA,0,['50'],159,SWISS,2024-07-30,2024-08-06
 ZRH,GVA,0,['1'],159,SWISS,2024-07-30,2024-08-06
 ZRH,GVA,0,['50'],159,SWISS,2024-07-30,2024-08-06
@@ -3282,28 +3201,24 @@ ZRH,GVA,0,['50'],159,SWISS,2024-07-30,2024-08-06
 ZRH,GVA,1,"['3', '15']",336,"SWISS, Brussels AirlinesOperated by Helvetic",2024-07-30,2024-08-06
 ZRH,GVA,1,"['13', '35']",563,IberiaOperated by Air Nostrum for Iberia,2024-07-30,2024-08-06
 ZRH,GVA,1,"['9', '20']",589,British Airways,2024-07-30,2024-08-06
-ZRH,GVA,1,"['3', '45']",1,"SWISS, Air DolomitiLufthansa",2024-07-30,2024-08-06
 ZRH,GVA,0,['50'],159,SWISS,2024-07-30,2024-08-06
 ZRH,GVA,0,['1'],159,SWISS,2024-07-30,2024-08-06
 ZRH,GVA,0,['50'],159,SWISS,2024-07-30,2024-08-06
 ZRH,GVA,0,['50'],159,SWISS,2024-07-30,2024-08-06
 ZRH,GVA,1,"['9', '20']",458,British Airways,2024-07-30,2024-08-06
 ZRH,GVA,1,"['14', '50']",494,Iberia,2024-07-30,2024-08-06
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-30,2024-08-06
 ZRH,GVA,0,['50'],159,SWISS,2024-07-31,2024-08-07
 ZRH,GVA,0,['1'],159,SWISS,2024-07-31,2024-08-07
 ZRH,GVA,0,['50'],159,SWISS,2024-07-31,2024-08-07
 ZRH,GVA,0,['50'],159,SWISS,2024-07-31,2024-08-07
 ZRH,GVA,1,"['9', '20']",458,British Airways,2024-07-31,2024-08-07
 ZRH,GVA,1,"['14', '50']",494,Iberia,2024-07-31,2024-08-07
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-31,2024-08-07
 ZRH,GVA,0,['50'],159,SWISS,2024-07-31,2024-08-07
 ZRH,GVA,0,['1'],159,SWISS,2024-07-31,2024-08-07
 ZRH,GVA,0,['50'],159,SWISS,2024-07-31,2024-08-07
 ZRH,GVA,0,['50'],159,SWISS,2024-07-31,2024-08-07
 ZRH,GVA,1,"['7', '40']",565,British Airways,2024-07-31,2024-08-07
 ZRH,GVA,1,"['7', '45']",565,VuelingIberia,2024-07-31,2024-08-07
-ZRH,GVA,1,"['3', '10']",1,"Lufthansa, Air DolomitiSWISSOperated by Lufthansa CityLine",2024-07-31,2024-08-07
 ZRH,CDG,0,"['1', '25']",204,Air France,2024-07-01,2024-07-08
 ZRH,CDG,0,"['1', '20']",204,Air France,2024-07-01,2024-07-08
 ZRH,CDG,0,"['1', '20']",208,SWISSOperated by Air Baltic,2024-07-01,2024-07-08
@@ -3569,12 +3484,10 @@ ZRH,CDG,1,['6'],299,Austrian,2024-07-27,2024-08-03
 ZRH,CDG,1,"['3', '50']",324,LufthansaOperated by Lufthansa CityLine,2024-07-27,2024-08-03
 ZRH,CDG,0,"['1', '30']",346,SWISS,2024-07-27,2024-08-03
 ZRH,CDG,1,"['3', '20']",369,LufthansaOperated by Lufthansa CityLine,2024-07-27,2024-08-03
-ZRH,CDG,1,"['4', '15']",1,"SWISS, Air France",2024-07-27,2024-08-03
 ZRH,CDG,1,['6'],299,Austrian,2024-07-28,2024-08-04
 ZRH,CDG,1,"['3', '50']",324,LufthansaOperated by Lufthansa CityLine,2024-07-28,2024-08-04
 ZRH,CDG,0,"['1', '30']",346,SWISS,2024-07-28,2024-08-04
 ZRH,CDG,1,"['3', '20']",369,LufthansaOperated by Lufthansa CityLine,2024-07-28,2024-08-04
-ZRH,CDG,1,"['4', '15']",1,"SWISS, Air France",2024-07-28,2024-08-04
 ZRH,CDG,0,"['1', '30']",283,SWISS,2024-07-28,2024-08-04
 ZRH,CDG,0,"['1', '30']",283,SWISSOperated by Helvetic,2024-07-28,2024-08-04
 ZRH,CDG,0,"['1', '15']",283,SWISSOperated by Air Baltic,2024-07-28,2024-08-04
@@ -6875,7 +6788,6 @@ ZRH,LCY,2,"['19', '50']",523,ITA,2024-07-06,2024-07-13
 ZRH,LCY,1,"['22', '40']",557,ITA,2024-07-06,2024-07-13
 ZRH,LCY,1,"['23', '5']",599,"SWISS, Air DolomitiLufthansa",2024-07-06,2024-07-13
 ZRH,LCY,1,"['18', '25']",830,"Iberia, British AirwaysOperated by Air Nostrum for Iberia, BA Cityflyer",2024-07-06,2024-07-13
-ZRH,LCY,1,"['5', '10']",1,"SWISS, Luxair",2024-07-06,2024-07-13
 ZRH,LCY,2,"['24', '55']",443,ITA,2024-07-07,2024-07-14
 ZRH,LCY,2,"['24', '55']",443,ITA,2024-07-07,2024-07-14
 ZRH,LCY,2,"['22', '25']",500,ITA,2024-07-07,2024-07-14
@@ -6888,7 +6800,6 @@ ZRH,LCY,2,"['19', '50']",523,ITA,2024-07-07,2024-07-14
 ZRH,LCY,1,"['22', '40']",557,ITA,2024-07-07,2024-07-14
 ZRH,LCY,1,"['23', '5']",599,"SWISS, Air DolomitiLufthansa",2024-07-07,2024-07-14
 ZRH,LCY,1,"['18', '25']",830,"Iberia, British AirwaysOperated by Air Nostrum for Iberia, BA Cityflyer",2024-07-07,2024-07-14
-ZRH,LCY,1,"['5', '10']",1,"SWISS, Luxair",2024-07-07,2024-07-14
 ZRH,LCY,1,"['13', '40']",449,KLMOperated by KLM Cityhopper,2024-07-07,2024-07-14
 ZRH,LCY,1,"['13', '5']",456,"SWISS, Air DolomitiLufthansa",2024-07-07,2024-07-14
 ZRH,LCY,1,"['12', '35']",972,"Aer Lingus, British AirwaysOperated by BA Cityflyer",2024-07-07,2024-07-14
@@ -6958,11 +6869,9 @@ ZRH,LCY,1,"['22', '15']",825,"Lufthansa, Air DolomitiOperated by Lufthansa CityL
 ZRH,LCY,1,"['16', '20']",526,ITA,2024-07-14,2024-07-21
 ZRH,LCY,1,['4'],642,"KLMOperated by KLM Cityhopper, KLM Cityhopper",2024-07-14,2024-07-21
 ZRH,LCY,1,"['12', '35']",743,"Aer Lingus, British AirwaysOperated by BA Cityflyer",2024-07-14,2024-07-21
-ZRH,LCY,1,"['12', '15']",1,"SWISS, British AirwaysOperated by BA Cityflyer",2024-07-14,2024-07-21
 ZRH,LCY,1,"['16', '20']",526,ITA,2024-07-15,2024-07-22
 ZRH,LCY,1,['4'],642,"KLMOperated by KLM Cityhopper, KLM Cityhopper",2024-07-15,2024-07-22
 ZRH,LCY,1,"['12', '35']",743,"Aer Lingus, British AirwaysOperated by BA Cityflyer",2024-07-15,2024-07-22
-ZRH,LCY,1,"['12', '15']",1,"SWISS, British AirwaysOperated by BA Cityflyer",2024-07-15,2024-07-22
 ZRH,LCY,1,"['7', '55']",260,"Lufthansa, Air Dolomiti",2024-07-15,2024-07-22
 ZRH,LCY,1,"['4', '35']",323,"SWISS, Air DolomitiLufthansaOperated by Air Baltic for Swiss International Air Lines",2024-07-15,2024-07-22
 ZRH,LCY,0,"['1', '40']",401,SWISSOperated by Helvetic,2024-07-15,2024-07-22
@@ -7079,14 +6988,12 @@ ZRH,LCY,1,"['22', '15']",543,"Lufthansa, Air DolomitiOperated by Lufthansa CityL
 ZRH,LCY,2,"['19', '50']",637,ITA,2024-07-27,2024-08-03
 ZRH,LCY,2,"['19', '50']",637,ITA,2024-07-27,2024-08-03
 ZRH,LCY,1,"['22', '40']",890,ITA,2024-07-27,2024-08-03
-ZRH,LCY,1,"['5', '10']",3,"SWISS, Luxair",2024-07-27,2024-08-03
 ZRH,LCY,2,['22'],491,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-28,2024-08-04
 ZRH,LCY,1,"['23', '5']",514,"SWISS, Air DolomitiLufthansa",2024-07-28,2024-08-04
 ZRH,LCY,1,"['22', '15']",543,"Lufthansa, Air DolomitiOperated by Lufthansa CityLine",2024-07-28,2024-08-04
 ZRH,LCY,2,"['19', '50']",637,ITA,2024-07-28,2024-08-04
 ZRH,LCY,2,"['19', '50']",637,ITA,2024-07-28,2024-08-04
 ZRH,LCY,1,"['22', '40']",890,ITA,2024-07-28,2024-08-04
-ZRH,LCY,1,"['5', '10']",3,"SWISS, Luxair",2024-07-28,2024-08-04
 ZRH,LCY,1,"['5', '25']",437,"SWISS, Air DolomitiLufthansa",2024-07-28,2024-08-04
 ZRH,LCY,2,"['18', '50']",443,ITA,2024-07-28,2024-08-04
 ZRH,LCY,2,"['18', '50']",443,ITA,2024-07-28,2024-08-04
